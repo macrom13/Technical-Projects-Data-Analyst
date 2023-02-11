@@ -1,0 +1,1200 @@
+company,url,last_valuation,date_joined,year_joined,city,country,industry
+Oura,https://www.cbinsights.com/company/oura,$ 2.55,4/5/2022,2022,Oulu,Finland,Health
+Lydia,https://www.cbinsights.com/company/lydia,$ 1.0,12/8/2021,2021,Paris,France,Fintech
+Inari,https://www.cbinsights.com/company/inari-ag,$ 1.5,5/12/2021,2021,Cambridge,United States,Other
+Exabeam,https://www.cbinsights.com/company/exabeam,$ 2.4,6/1/2021,2021,Foster City,United States,Cybersecurity
+Abogen,https://www.cbinsights.com/company/abon,$ 3.7,11/29/2021,2021,Suzhou,China,Health
+Changingedu,https://www.cbinsights.com/company/changingedu,$ 1.5,10/30/2017,2017,Shanghai,China,Edtech
+Opn,https://www.cbinsights.com/company/omise,$ 1.0,5/9/2022,2022,Tokyo,United States,Fintech
+SmartHR,https://www.cbinsights.com/company/smarthr,$ 1.6,6/8/2021,2021,Tokyo,United States,Fintech
+Playco,https://www.cbinsights.com/company/playco,$ 1.0,9/21/2020,2020,Tokyo,United States,Other
+SmartNews,https://www.cbinsights.com/company/smartnews,$ 2.0,8/5/2019,2019,Tokyo,United States,Mobile & telecommunications
+Preferred Networks,https://www.cbinsights.com/company/preferred-networks,$ 2.0,5/17/2018,2018,Tokyo,United States,Artificial intelligence
+BigPanda,https://www.cbinsights.com/company/bigpanda,$ 1.2,1/12/2022,2022,Mountain View,United States,Artificial intelligence
+Pipa Coding,https://www.cbinsights.com/company/pipa-coding,$ 1.2,3/25/2021,2021,Beijing,China,Edtech
+Ledger,https://www.cbinsights.com/company/ledger,$ 1.5,6/10/2021,2021,Paris,France,Hardware
+Ynsect,https://www.cbinsights.com/company/ynsect,$ 1.0,2/21/2019,2019,Evry,France,Other
+Easyhome,https://www.cbinsights.com/company/easyhome,$ 5.78,2/12/2018,2018,Beijing,China,Consumer & retail
+XiaoZhu,https://www.cbinsights.com/company/xiaozhu,$ 1.5,11/1/2017,2017,Beijing,China,Travel
+Esusu,https://www.cbinsights.com/company/esusu,$ 1.0,1/27/2022,2022,New York,United States,Fintech
+Fever Labs,https://www.cbinsights.com/company/fever-labs,$ 1.0,1/26/2022,2022,New York,United States,Internet software & services
+Minio,https://www.cbinsights.com/company/minio,$ 1.0,1/26/2022,2022,Palo Alto,United States,Data management & analytics
+Darwinbox,https://www.cbinsights.com/company/darwinbox,$ 1.0,1/25/2022,2022,Hyderabad,India,Internet software & services
+Pentera,https://www.cbinsights.com/company/pcysys,$ 1.0,1/11/2022,2022,Petah Tikva,Israel,Cybersecurity 
+Placer.ai,https://www.cbinsights.com/company/placerai,$ 1.0,1/12/2022,2022,Los Altos,United States,Artificial intelligence
+CAIS,https://www.cbinsights.com/company/cais,$ 1.1,1/11/2022,2022,New York,United States,Fintech
+Chief,https://www.cbinsights.com/company/chief-1,$ 1.1,3/31/2022,2022,New York,United States,Other
+Ankorstore,https://www.cbinsights.com/company/ankorstore,$ 1.98,1/10/2022,2022,Paris,France,E-commerce & direct-to-consumer
+Unstoppable Domains,https://www.cbinsights.com/company/unstoppable-domains,$ 1.0,7/27/2022,2022,Las Vegas,United States,Internet software & services
+SingleStore,https://www.cbinsights.com/company/memsql,$ 1.0,7/12/2022,2022,San Francisco,United States,Data management & analytics
+VulcanForms,https://www.cbinsights.com/company/vulcanforms,$ 1.0,7/5/2022,2022,Burlington,United States,"Supply chain, logistics, & delivery"
+FourKites,https://www.cbinsights.com/company/fourkites,$ 1.0,6/21/2022,2022,Chicago,United States,"Supply chain, logistics, & delivery"
+LeadSquared,https://www.cbinsights.com/company/leadsquared,$ 1.0,6/21/2022,2022,Bengaluru,India,Internet software & services
+Vayyar,https://www.cbinsights.com/company/vayyar-imaging,$ 1.0,6/6/2022,2022,Yehud,Israel,Hardware
+JupiterOne,https://www.cbinsights.com/company/jupiterone,$ 1.0,6/2/2022,2022,Morrisville,United States,Cybersecurity
+Immuta,https://www.cbinsights.com/company/immuta,$ 1.0,6/8/2022,2022,Boston,United States,Data management & analytics
+CareBridge,https://www.cbinsights.com/company/carebridge,$ 1.0,6/8/2022,2022,Nashville,United States,Health
+Glean,https://www.cbinsights.com/company/glean-2,$ 1.0,5/18/2022,2022,Palo Alto,United States,Internet software & services
+Habi,https://www.cbinsights.com/company/habi,$ 1.0,5/11/2022,2022,Bogota,Colombia,Fintech
+Remarkable,https://www.cbinsights.com/company/remarkable,$ 1.0,5/10/2022,2022,Oslo,Norway,Internet software & services
+Polarium,https://www.cbinsights.com/company/polarium,$ 1.0,5/3/2022,2022,Kista,Sweden,Other
+Open,https://www.cbinsights.com/company/open,$ 1.0,5/2/2022,2022,Bengaluru,India,Fintech
+Taxfix,https://www.cbinsights.com/company/taxfix,$ 1.0,4/28/2022,2022,Berlin,Germany,Fintech
+Divergent 3D,https://www.cbinsights.com/company/divergent-microfactories,$ 1.0,4/25/2022,2022,Torrance,United States,Auto & transportation
+Factorial,https://www.cbinsights.com/company/factorial,$ 1.0,10/11/2022,2022,Barcelona,Spain,Internet software & services
+UPSIDE Foods,https://www.cbinsights.com/company/memphis-meats,$ 1.0,4/21/2022,2022,Berkeley,United States,Other
+Instabox,https://www.cbinsights.com/company/instabox,$ 1.0,4/21/2022,2022,Stockholm,Sweden,"Supply chain, logistics, & delivery"
+NexHealth,https://www.cbinsights.com/company/nexhealth,$ 1.0,4/21/2022,2022,San Francisco,United States,Health
+Oyster,https://www.cbinsights.com/company/oyster-1,$ 1.0,4/20/2022,2022,Wilmington,United States,Fintech
+Genies,https://www.cbinsights.com/company/blend-systems,$ 1.0,4/12/2022,2022,Venice,United States,Internet software & services
+Grover,https://www.cbinsights.com/company/byebuy,$ 1.0,4/7/2022,2022,Berlin,Germany,E-commerce & direct-to-consumer
+BostonGene,https://www.cbinsights.com/company/bostongene,$ 1.0,4/6/2022,2022,Waltham,United States,Health
+LayerZero Labs,https://www.cbinsights.com/company/layerzero,$ 1.0,3/30/2022,2022,New York,United States,Internet software & services
+Electric,https://www.cbinsights.com/company/electric-ai,$ 1.0,3/29/2022,2022,New York,United States,Cybersecurity
+FLASH,https://www.cbinsights.com/company/flashparking,$ 1.0,3/16/2022,2022,Austin,United States,Fintech
+Tarana Wireless,https://www.cbinsights.com/company/tarana-wireless,$ 1.0,3/23/2022,2022,Milpitas,United States,Mobile & telecommunications
+RapidAPI,https://www.cbinsights.com/company/rapidapi,$ 1.0,3/23/2022,2022,San Francisco,United States,Internet software & services
+CommerceIQ,https://www.cbinsights.com/company/boomerang-commerce-inc,$ 1.0,3/21/2022,2022,Palo Alto,United States,Artificial Intelligence
+Glia,https://www.cbinsights.com/company/salemove,$ 1.0,3/21/2022,2022,New York,United States,Fintech
+Amagi,https://www.cbinsights.com/company/amagi-media-labs,$ 1.0,3/16/2022,2022,Bengaluru,India,Internet software & services
+Aptos,https://www.cbinsights.com/company/aptos,$ 1.0,3/15/2022,2022,Palo Alto,United States,Internet software & services
+Gauntlet Networks,https://www.cbinsights.com/company/gauntlet-networks,$ 1.0,3/7/2022,2022,New York,United States,Fintech
+Vendr,https://www.cbinsights.com/company/vendr,$ 1.0,2/24/2022,2022,Boston,United States,Fintech
+Veev,https://www.cbinsights.com/company/veev,$ 1.0,2/24/2022,2022,San Mateo,United States,Internet software & services
+BlueVoyant,https://www.cbinsights.com/company/bluevoyant,$ 1.0,2/23/2022,2022,New York,United States,Cybersecurity
+Omada Health,https://www.cbinsights.com/company/omada-health,$ 1.0,2/23/2022,2022,San Francisco,United States,Health
+Scalapay,https://www.cbinsights.com/company/scalapay,$ 1.0,2/23/2022,2022,Milan,Italy,Fintech
+Timescale,https://www.cbinsights.com/company/440-labs,$ 1.0,2/22/2022,2022,New York,United States,Internet software & services
+Hasura,https://www.cbinsights.com/company/hasura,$ 1.0,2/22/2022,2022,Bengaluru,India,Internet software & services
+CHEQ,https://www.cbinsights.com/company/cheq,$ 1.0,2/22/2022,2022,New York,United States,Cybersecurity 
+Axelar,https://www.cbinsights.com/company/axelar-1,$ 1.0,2/15/2022,2022,Waterloo,Canada,Internet software & services
+Watershed,https://www.cbinsights.com/company/watershed,$ 1.0,2/8/2022,2022,San Francisco,United States,Internet software & services
+Payhawk,https://www.cbinsights.com/company/payhawk,$ 1.0,2/14/2022,2022,London,United Kingdom,Fintech
+Scandit,https://www.cbinsights.com/company/scandit,$ 1.0,2/9/2022,2022,Zurich,Switzerland,"Supply chain, logistics, & delivery"
+Dune Analytics,https://www.cbinsights.com/company/dune-analytics,$ 1.0,2/2/2022,2022,Oslo,Norway,Data management & analytics
+Betterfly,https://www.cbinsights.com/company/burn-to-give,$ 1.0,2/1/2022,2022,Santiago,Chile,Artificial intelligence
+Assent,https://www.cbinsights.com/company/assent-compliance-inc,$ 1.0,1/6/2022,2022,Ottawa,Canada,"Supply chain, logistics, & delivery"
+Fractal Analytics,https://www.cbinsights.com/company/fractal-analytics,$ 1.0,1/5/2022,2022,Mumbai,India,Data management & analytics
+Zebec,https://www.cbinsights.com/company/zebec,$ 1.0,8/29/2022,2022,San Francisco,United States,Fintech
+Perimeter 81,https://www.cbinsights.com/company/perimeter-81,$ 1.0,6/6/2022,2022,Tel Aviv,Israel,Cybersecurity
+TransferMate,https://www.cbinsights.com/company/transfermate,$ 1.0,5/22/2022,2022,Kilkenny,Ireland,Fintech
+EcoVadis,https://www.cbinsights.com/company/ecovadis,$ 1.0,6/14/2022,2022,Paris,France,"Supply chain, logistics, & delivery"
+Turntide Technologies,https://www.cbinsights.com/company/software-motor-corporation,$ 1.0,6/15/2022,2022,Sunnyvale,United States,Auto & transportation
+Paystand,https://www.cbinsights.com/company/paystand,$ 1.0,8/2/2022,2022,Scotts Valley,United States,Fintech
+Satispay,https://www.cbinsights.com/company/satispay,$ 1.0,9/28/2022,2022,Milan,Italy,Fintech
+Vesttoo,https://www.cbinsights.com/company/Vesttoo,$ 1.0,10/25/2022,2022,Tel Aviv-Yafo,Israel,Fintech
+Stability AI,https://www.cbinsights.com/company/stability-ai,$ 1.0,10/5/2022,2022,London,United Kingdom,Internet software & services
+Celestia,https://www.cbinsights.com/company/lazyledger,$ 1.0,10/19/2022,2022,Vaduz,Liechtenstein,Internet software & services
+LINE MAN Wongnai,https://www.cbinsights.com/company/line-man,$ 1.0,9/26/2022,2022,Bangkok,Thailand,E-commerce & direct-to-consumer
+Flow,https://www.cbinsights.com/company/flow,$ 1.0,8/15/2022,2022,New York,United States,Fintech
+Wheel,https://www.cbinsights.com/company/enzyme-health,$ 1.01,1/19/2022,2022,Austin,United States,Health
+Branch,https://www.cbinsights.com/company/branch-1,$ 1.05,3/1/2022,2022,Columbus,United States,Fintech
+0x,https://www.cbinsights.com/company/0x-1,$ 1.05,4/26/2022,2022,San Francisco,United States,Fintech
+Cirkul,https://www.cbinsights.com/company/cirkul,$ 1.07,6/13/2022,2022,Sarasota,United States,Consumer & retail
+Purplle,https://www.cbinsights.com/company/purplle,$ 1.1,6/9/2022,2022,Mumbai,India,E-commerce & direct-to-consumer
+Recover,https://www.cbinsights.com/company/recover-textile,$ 1.1,6/9/2022,2022,Banyeres de Mariola,Spain,Other
+PhysicsWallah,https://www.cbinsights.com/company/physicswallah,$ 1.1,6/7/2022,2022,Uttar Pradesh,India,Edtech
+Material Security,https://www.cbinsights.com/company/meet-material,$ 1.1,5/11/2022,2022,Redwood City,United States,Cybersecurity
+Imply Data,https://www.cbinsights.com/company/imply-data,$ 1.1,5/17/2022,2022,Burlingame,United States,Data management & analytics
+Teleport,https://www.cbinsights.com/company/gravitational,$ 1.1,5/3/2022,2022,Oakland,United States,Cybersecurity
+IntelyCare,https://www.cbinsights.com/company/intelycare,$ 1.1,4/6/2022,2022,Quincy,United States,Health
+Staffbase,https://www.cbinsights.com/company/staffbase,$ 1.1,3/15/2022,2022,Chemnitz,Germany,Internet software & services
+Beyond Identity,https://www.cbinsights.com/company/zeropw,$ 1.1,2/22/2022,2022,New York,United States,Cybersecurity
+eSentire,https://www.cbinsights.com/company/esentire,$ 1.1,2/22/2022,2022,Waterloo,Canada,Cybersecurity
+LEAD School,https://www.cbinsights.com/company/lead-school,$ 1.1,1/13/2022,2022,Andheri,India,Edtech
+Nowports,https://www.cbinsights.com/company/nowports,$ 1.1,5/24/2022,2022,Monterrey,Mexico,"Supply chain, logistics, & delivery"
+Caribou,https://www.cbinsights.com/company/motorefi,$ 1.1,5/23/2022,2022,Denver,United States,Fintech
+Flexe,https://www.cbinsights.com/company/flexe,$ 1.0,4/21/2022,2022,Seattle,United States,"Supply chain, logistics, & delivery"
+Wasabi,https://www.cbinsights.com/company/bluearchive,$ 1.1,9/27/2022,2022,Boston,United States,Internet software & services
+Invoca,https://www.cbinsights.com/company/invoca,$ 1.1,6/14/2022,2022,Santa Barbara,United States,Artificial intelligence
+Visby Medical,https://www.cbinsights.com/company/click-diagnostics,$ 1.12,3/1/2022,2022,San Jose,United States,Health
+DANA,https://www.cbinsights.com/company/dana-1,$ 1.13,8/10/2022,2022,Jakarta,Indonesia,Fintech
+Happy Money,https://www.cbinsights.com/company/payoffcom,$ 1.15,2/8/2022,2022,Tustin,United States,Fintech
+SOURCE Global,https://www.cbinsights.com/company/zero-mass-water,$ 1.16,4/29/2022,2022,Scottsdale,United States,Other
+Swiftly,https://www.cbinsights.com/company/swiftly-1-,$ 1.2,9/19/2022,2022,Seattle,United States,Mobile & telecommunications
+Spectrum Medical,https://www.cbinsights.com/company/spectrum-medical,$ 1.2,7/18/2022,2022,Gloucester,United Kingdom,Health
+stori,https://www.cbinsights.com/company/stori-1,$ 1.2,7/15/2022,2022,Juarez,Mexico,Fintech
+Unit,https://www.cbinsights.com/company/unitco,$ 1.2,5/17/2022,2022,New York,United States,Fintech
+Viz.ai,https://www.cbinsights.com/company/vizai,$ 1.2,4/7/2022,2022,San Francisco,United States,Artificial Intelligence
+Choco,https://www.cbinsights.com/company/choco,$ 1.2,4/12/2022,2022,Berlin,Germany,E-commerce & direct-to-consumer
+Nova Labs,https://www.cbinsights.com/company/helium-systems,$ 1.2,2/22/2022,2022,San Francisco,United States,Internet software & services
+Xpressbees,https://www.cbinsights.com/company/xpressbees,$ 1.2,2/9/2022,2022,Pune,India,"Supply chain, logistics, & delivery"
+LivSpace,https://www.cbinsights.com/company/livspace,$ 1.2,2/8/2022,2022,Bengaluru,India,E-commerce & direct-to-consumer
+Phantom,https://www.cbinsights.com/company/phantom,$ 1.2,1/31/2022,2022,San Francisco,United States,Fintech
+SeekOut,https://www.cbinsights.com/company/zipstorm,$ 1.2,1/12/2022,2022,Bellevue,United States,Internet software & services
+Zip,https://www.cbinsights.com/company/evergreen-2,$ 1.2,5/25/2022,2022,San Francisco,United States,Fintech
+Kallyope,https://www.cbinsights.com/company/kallyope,$ 1.22,2/15/2022,2022,New York,United States,Health
+Insider,https://www.cbinsights.com/company/insider,$ 1.22,2/28/2022,2022,Istanbul,Turkey,Internet software & services
+SeatGeek,https://www.cbinsights.com/company/seatgeek,$ 1.24,8/31/2022,2022,New York,United States,E-commerce & direct-to-consumer
+ClassDojo,https://www.cbinsights.com/company/classdojo,$ 1.25,7/21/2022,2022,San Francisco,United States,Edtech
+airSlate,https://www.cbinsights.com/company/airslate,$ 1.25,6/16/2022,2022,Brookline,United States,Internet software & services
+Talos,https://www.cbinsights.com/company/talos,$ 1.25,5/10/2022,2022,New York,United States,Fintech
+CaptivateIQ,https://www.cbinsights.com/company/captivateiq,$ 1.25,1/26/2022,2022,San Francisco,United States,Fintech
+Route,https://www.cbinsights.com/company/route,$ 1.25,1/21/2022,2022,Lehi,United States,"Supply chain, logistics, & delivery"
+Flipdish,https://www.cbinsights.com/company/flipdish,$ 1.25,1/13/2022,2022,Dublin,Ireland,Internet software & services
+JMGO,https://www.cbinsights.com/company/jmgo,$ 1.26,3/15/2022,2022,Shenzhen,China,Hardware
+Greater Bay Technology,https://www.cbinsights.com/company/greater-bay-technology,$ 1.26,4/2/2022,2022,Guangzhou,China,Hardware
+Equashield,https://www.cbinsights.com/company/equashield,$ 1.3,10/6/2022,2022,Port Washington,United States,Health
+Optibus,https://www.cbinsights.com/company/optibus,$ 1.3,5/16/2022,2022,Tel Aviv,Israel,"Supply chain, logistics, & delivery"
+Biofourmis,https://www.cbinsights.com/company/biofourmis,$ 1.3,4/26/2022,2022,Boston,United States,Health
+Clipboard Health,https://www.cbinsights.com/company/clipboard-health,$ 1.3,2/1/2022,2022,San Francisco,United States,Internet software & services
+Island,https://www.cbinsights.com/company/islandree,$ 1.3,3/23/2022,2022,Dallas,United States,Internet software & services
+LinkTree,https://www.cbinsights.com/company/linktree,$ 1.3,3/16/2022,2022,Melbourne,Australia,Internet software & services
+CredAvenue,https://www.cbinsights.com/company/credavenue,$ 1.3,3/7/2022,2022,Chennai,India,Fintech
+Loadsmart,https://www.cbinsights.com/company/loadsmart,$ 1.3,2/1/2022,2022,New York,United States,"Supply chain, logistics, & delivery"
+CoinTracker,https://www.cbinsights.com/company/nino-finance,$ 1.3,1/27/2022,2022,San Francisco,United States,Fintech
+Domestika,https://www.cbinsights.com/company/domestika-llc,$ 1.3,1/27/2022,2022,Berkeley,United States,Internet software & services
+iTrustCapital,https://www.cbinsights.com/company/itrustcapital,$ 1.3,1/11/2022,2022,Long Beach,United States,Fintech
+TravelPerk,https://www.cbinsights.com/company/travelperk,$ 1.3,1/12/2022,2022,Barcelona,Spain,Travel
+Lukka,https://www.cbinsights.com/company/lukka,$ 1.3,1/14/2022,2022,New York,United States,Fintech
+Shiprocket,https://www.cbinsights.com/company/bigfoot-retail-solutions,$ 1.3,8/16/2022,2022,New Delhi,India,"Supply chain, logistics, & delivery"
+Athletic Greens,https://www.cbinsights.com/company/athletic-greens,$ 1.32,1/25/2022,2022,New York,United States,Health
+RIDI,https://www.cbinsights.com/company/ridi-corporation,$ 1.33,1/24/2022,2022,Seoul,South Korea,E-commerce & direct-to-consumer
+Jaguar Microsystems,https://www.cbinsights.com/company/jaguar-microsystems,$ 1.34,6/23/2022,2022,Shenzhen,China,Hardware
+Epirus,https://www.cbinsights.com/company/epirus,$ 1.35,2/14/2022,2022,Hawthorne,United States,Other
+Movable Ink,https://www.cbinsights.com/company/movable-ink,$ 1.36,4/28/2022,2022,New York,United States,Internet software & services
+Neon,https://www.cbinsights.com/company/neon,$ 1.38,2/14/2022,2022,Sao Paulo,Brazil,Fintech
+Nimble Rx,https://www.cbinsights.com/company/nimble-pharmacy,$ 1.4,6/14/2022,2022,Redwood City,United States,Health
+Tripledot,https://www.cbinsights.com/company/tripledot-studios,$ 1.4,2/14/2022,2022,London,United Kingdom,Mobile & telecommunications
+Salt Security,https://www.cbinsights.com/company/secful,$ 1.4,2/10/2022,2022,Palo Alto,United States,Cybersecurity
+OneCard,https://www.cbinsights.com/company/onescore-app,$ 1.4,7/13/2022,2022,Pune,India,Fintech
+Paddle,https://www.cbinsights.com/company/paddle,$ 1.4,5/9/2022,2022,London,United Kingdom,Fintech
+Bucketplace,https://www.cbinsights.com/company/bucketplace,$ 1.4,5/9/2022,2022,Seoul,South Korea,E-commerce & direct-to-consumer
+Clarify Health,https://www.cbinsights.com/company/clarify-health-solutions,$ 1.4,4/5/2022,2022,San Francisco,United States,Health
+Firebolt,https://www.cbinsights.com/company/firebolt,$ 1.4,1/26/2022,2022,Tel Aviv,Israel,Data management & analytics
+SparkCognition,https://www.cbinsights.com/company/sparkcognition,$ 1.4,1/25/2022,2022,Austin,United States,Artificial intelligence
+Deliverect,https://www.cbinsights.com/company/deliverect,$ 1.4,1/24/2022,2022,Ghent,Belgium,Fintech
+Envoy,https://www.cbinsights.com/company/envoy,$ 1.4,1/11/2022,2022,San Francisco,United States,Internet software & services
+Aleo,https://www.cbinsights.com/company/aleo-1,$ 1.45,2/7/2022,2022,San Francisco,United States,Cybersecurity
+Arcadia,https://www.cbinsights.com/company/arcadia-power,$ 1.48,5/10/2022,2022,DC,United States,Other
+5ire,https://www.cbinsights.com/company/5ire,$ 1.5,7/15/2022,2022,London,United Kingdom,Internet software & services
+Dock,https://www.cbinsights.com/company/conductor-1,$ 1.5,5/12/2022,2022,Sao Paulo,Brazil,Fintech
+Mashgin,https://www.cbinsights.com/company/mashgin,$ 1.5,5/9/2022,2022,Palo Alto,United States,Artificial intelligence
+Upside,https://www.cbinsights.com/company/getupside,$ 1.5,4/26/2022,2022,DC,United States,Mobile & telecommunications
+Boba,https://www.cbinsights.com/company/boba,$ 1.5,4/5/2022,2022,San Francisco,United States,Fintech
+Fabric,https://www.cbinsights.com/company/yotta-digital-ventures,$ 1.5,2/24/2022,2022,Bellevue,United States,E-commerce & direct-to-consumer
+Temporal,https://www.cbinsights.com/company/temporal-technologies,$ 1.5,2/16/2022,2022,Bellevue,United States,Internet software & services
+ElasticRun,https://www.cbinsights.com/company/elasticrun,$ 1.5,2/7/2022,2022,Pune,India,"Supply chain, logistics, & delivery"
+Athelas,https://www.cbinsights.com/company/athelas,$ 1.5,1/31/2022,2022,Mountain View,United States,Health
+Veriff,https://www.cbinsights.com/company/veriff,$ 1.5,1/26/2022,2022,Tallinn,Estonia,Artificial intelligence
+Spendesk,https://www.cbinsights.com/company/spendesk,$ 1.5,1/18/2022,2022,Paris,France,Fintech
+Il Makiage,https://www.cbinsights.com/company/il-makiage,$ 1.5,1/10/2022,2022,New York,United States,E-commerce & direct-to-consumer
+StoreDot,https://www.cbinsights.com/company/storedot,$ 1.5,1/4/2022,2022,Herzliya,Israel,Other
+Orna Therapeutics,https://www.cbinsights.com/company/orna-therapeutics,$ 1.5,8/16/2022,2022,Cambridge,United States,Health
+Jasper,https://www.cbinsights.com/company/jasper,$ 1.5,10/17/2022,2022,Austin,United States,Internet software & services
+Kushki,https://www.cbinsights.com/company/kushki1,$ 1.5,6/7/2022,2022,Quito,Ecuador,Fintech
+Gokin Solar,https://www.cbinsights.com/company/gokinsolar,$ 1.51,4/13/2022,2022,Zhuhai,China,Other
+Fresh Life Style Supply Chain Management,https://www.cbinsights.com/company/xianshenghuo,$ 1.57,3/11/2022,2022,Chengdu,China,"Supply chain, logistics, & delivery"
+ICON 3D,https://www.cbinsights.com/company/icon-3d,$ 1.57,2/18/2022,2022,Austin,United States,Hardware
+Pave,https://www.cbinsights.com/company/pave,$ 1.6,6/28/2022,2022,San Francisco,United States,Internet software & services
+Magic Eden,https://www.cbinsights.com/company/magic-eden,$ 1.6,6/21/2022,2022,San Francisco,United States,Fintech
+Vanta,https://www.cbinsights.com/company/vanta,$ 1.6,6/7/2022,2022,San Francisco,United States,Cybersecurity
+Nord Security,https://www.cbinsights.com/company/nord-security,$ 1.6,4/7/2022,2022,Vilnius,Lithuania,Cybersecurity
+Capitolis,https://www.cbinsights.com/company/capitolis,$ 1.6,3/22/2022,2022,New York,United States,Fintech
+Wayflyer,https://www.cbinsights.com/company/wayflyer,$ 1.6,2/1/2022,2022,Dublin,Ireland,Fintech
+Cresta,https://www.cbinsights.com/company/cresta,$ 1.6,3/17/2022,2022,San Francisco,United States,Artificial Intelligence
+Monte Carlo,https://www.cbinsights.com/company/monte-carlo,$ 1.6,5/24/2022,2022,San Francisco,United States,Artificial intelligence
+DealShare,https://www.cbinsights.com/company/dealshare,$ 1.7,1/27/2022,2022,Bengaluru,India,E-commerce & direct-to-consumer
+Transcarent,https://www.cbinsights.com/company/transcarent,$ 1.62,1/11/2022,2022,San Francisco,United States,Health
+Incredible Health,https://www.cbinsights.com/company/incredible-health,$ 1.65,8/17/2022,2022,San Francisco,United States,Health
+Optimism,https://www.cbinsights.com/company/optimism-1,$ 1.65,3/17/2022,2022,San Francisco,United States,Internet software & services
+Spotter,https://www.cbinsights.com/company/spotter,$ 1.7,2/16/2022,2022,Los Angeles,United States,Fintech
+Productboard,https://www.cbinsights.com/company/productboard,$ 1.7,2/2/2022,2022,San Francisco,United States,Internet software & services
+FinAccel,https://www.cbinsights.com/company/finaccel,$ 1.66,8/15/2022,2022,,Singapore,Fintech
+Uniswap,https://www.cbinsights.com/company/uniswap,$ 1.66,10/13/2022,2022,New York,United States,Fintech
+Tessera Therapeutics,https://www.cbinsights.com/company/tessera-therapeutics,$ 1.69,4/19/2022,2022,Cambridge,United States,Health
+Redesign Health,https://www.cbinsights.com/company/redesign-health,$ 1.7,9/13/2022,2022,New York,United States,Health
+Front,https://www.cbinsights.com/company/front,$ 1.7,6/28/2022,2022,San Francisco,United States,Internet software & services
+Multiverse,https://www.cbinsights.com/company/whitehat,$ 1.7,6/8/2022,2022,London,United Kingdom,Edtech
+Pax8,https://www.cbinsights.com/company/pax8,$ 1.7,4/11/2022,2022,Greenwood Village,United States,Internet software & services
+AlphaSense,https://www.cbinsights.com/company/alphasense-1,$ 1.7,6/15/2022,2022,New York,United States,Artificial intelligence
+Crusoe,https://www.cbinsights.com/company/crusoe-energy-systems,$ 1.75,4/21/2022,2022,Denver,United States,Internet software & services
+MEGAZONE,https://www.cbinsights.com/company/megazone-1,$ 1.83,8/16/2022,2022,Seoul,South Korea,Internet software & services
+Volocopter,https://www.cbinsights.com/company/volocopter,$ 1.87,3/4/2022,2022,Bruchsal,Germany,Auto & transportation
+Material Bank,https://www.cbinsights.com/company/material-bank,$ 1.9,5/6/2022,2022,Boca Raton,United States,E-commerce & direct-to-consumer
+ConcertAI,https://www.cbinsights.com/company/precision-health-ai,$ 1.9,3/29/2022,2022,Boston,United States,Artificial Intelligence
+thatgamecompany,https://www.cbinsights.com/company/thatgamecompany,$ 1.94,3/3/2022,2022,Los Angeles,United States,Internet software & services
+Roofstock,https://www.cbinsights.com/company/dwellconnect,$ 1.94,3/10/2022,2022,Oakland,United States,Fintech
+Acorns,https://www.cbinsights.com/company/acorns-grow,$ 1.9,3/9/2022,2022,Irvine,United States,Fintech
+ZigBang,https://www.cbinsights.com/company/channelbreeze,$ 1.93,6/7/2022,2022,Seoul,South Korea,Mobile & telecommunications
+21.co,https://www.cbinsights.com/company/21e6-,$ 2.0,9/6/2022,2022,New York,United States,Fintech
+Rimac Automobili,https://www.cbinsights.com/company/rimac-automobili,$ 2.0,6/1/2022,2022,Sveta Nedelja,Croatia,Auto & transportation
+Hugging Face,https://www.cbinsights.com/company/hugging-face,$ 2.0,5/9/2022,2022,New York,United States,Artificial intelligence
+ROX Motor,https://www.cbinsights.com/company/rox-motor,$ 2.0,4/29/2022,2022,Shanghai,China,Auto & transportation
+CertiK,https://www.cbinsights.com/company/certik,$ 2.0,3/31/2022,2022,New York,United States,Cybersecurity
+Salsify,https://www.cbinsights.com/company/salsify,$ 2.0,4/13/2022,2022,Boston,United States,Internet software & services
+Cloudinary,https://www.cbinsights.com/company/cloudinary,$ 2.0,2/15/2022,2022,Santa Clara,United States,Internet software & services
+Akulaku,https://www.cbinsights.com/company/akulaku,$ 2.0,2/15/2022,2022,Jakarta,Indonesia,E-commerce & direct-to-consumer
+Exotec,https://www.cbinsights.com/company/exotec-solutions,$ 2.0,1/17/2022,2022,Croix,France,Hardware
+PayFit,https://www.cbinsights.com/company/payfit,$ 2.1,1/6/2022,2022,London,United Kingdom,Fintech
+Mysten Labs,https://www.cbinsights.com/company/mysten-labs,$ 2.0,9/8/2022,2022,San Francisco,United States,Internet software & services
+Babel Finance,https://www.cbinsights.com/company/babelbankio,$ 2.0,5/25/2022,2022,Hong Kong,Hong Kong,Fintech
+Jeeves,https://www.cbinsights.com/company/jeeves,$ 2.1,3/14/2022,2022,Orlando,United States,Fintech
+GoCardless,https://www.cbinsights.com/company/gocardless,$ 2.1,2/8/2022,2022,London,United Kingdom,Fintech
+Accelerant,https://www.cbinsights.com/company/accelerant,$ 2.19,1/12/2022,2022,Colchester,United Kingdom,Other
+BloomReach,https://www.cbinsights.com/company/bloomreach,$ 2.2,2/23/2022,2022,Mountain View,United States,Artificial intelligence
+G7 Networks,https://www.cbinsights.com/company/g7,$ 2.2,2/15/2022,2022,Beijing,China,"Supply chain, logistics, & delivery"
+Newfront Insurance,https://www.cbinsights.com/company/abe,$ 2.2,4/12/2022,2022,San Francisco,United States,Fintech
+Beta Technologies,https://www.cbinsights.com/company/beta-technologies,$ 2.4,4/19/2022,2022,South Burlington,United States,Other
+Coda Payments,https://www.cbinsights.com/company/coda-payments,$ 2.5,4/15/2022,2022,,Singapore,Fintech
+Games24x7,https://www.cbinsights.com/company/games24x7,$ 2.5,3/30/2022,2022,Mumbai,India,Internet software & services
+SiFive,https://www.cbinsights.com/company/sifive,$ 2.5,3/16/2022,2022,San Mateo,United States,Hardware
+A24 Films,https://www.cbinsights.com/company/a24-films,$ 2.5,3/9/2022,2022,New York,United States,Other
+Immutable,https://www.cbinsights.com/company/fuel-bros,$ 2.5,3/7/2022,2022,Sydney,Australia,Fintech
+Somatus,https://www.cbinsights.com/company/somatus,$ 2.5,2/23/2022,2022,McLean,United States,Health
+Uniphore,https://www.cbinsights.com/company/uniphore-software-systems,$ 2.5,2/16/2022,2022,Palo Alto,United States,Artificial Intelligence
+BackBase,https://www.cbinsights.com/company/backbase,$ 2.66,6/9/2022,2022,Amsterdam,Netherlands,Fintech
+Tridge,https://www.cbinsights.com/company/tridge,$ 2.7,8/24/2022,2022,Seoul,South Korea,Internet software & services
+Hozon Auto,https://www.cbinsights.com/company/hozon-technology,$ 3.95,2/22/2022,2022,Shanghai,China,Auto & transportation
+Cross River Bank,https://www.cbinsights.com/company/cross-river-bank,$ 3.0,2/11/2022,2022,Fort Lee,United States,Fintech
+Inxeption,https://www.cbinsights.com/company/inxeption,$ 3.0,1/13/2022,2022,San Francisco,United States,Fintech
+Eikon Therapeutics,https://www.cbinsights.com/company/eikon-therapeutics,$ 3.2,1/6/2022,2022,Hayward,United States,Health
+Ironclad,https://www.cbinsights.com/company/ironclad,$ 3.2,1/18/2022,2022,Sacramento,United States,Internet software & services
+Autograph,https://www.cbinsights.com/company/autograph-1,$ 3.66,1/20/2022,2022,Santa Monica,United States,Internet software & services
+Abnormal Security,https://www.cbinsights.com/company/abnormal-security,$ 4.0,5/10/2022,2022,San Francisco,United States,Cybersecurity
+Yuga Labs,https://www.cbinsights.com/company/bored-ape-yacht-club,$ 4.0,3/22/2022,2022,Miami,United States,Internet software & services
+Globalization Partners,https://www.cbinsights.com/company/globalization-partners,$ 4.2,1/24/2022,2022,Boston,United States,Internet software & services
+SonarSource,https://www.cbinsights.com/company/sonarsource,$ 4.7,4/26/2022,2022,Geneva,Switzerland,Internet software & services
+Qonto,https://www.cbinsights.com/company/qonto,$ 5.0,1/11/2022,2022,Paris,France,Fintech
+The Boring Company,https://www.cbinsights.com/company/the-boring-company,$ 5.7,4/20/2022,2022,Pflugerville,United States,Other
+RELEX,https://www.cbinsights.com/company/relex-solutions,$ 5.7,2/17/2022,2022,Helsinki,Finland,"Supply chain, logistics, & delivery"
+KuCoin,https://www.cbinsights.com/company/kucoin,$ 10.0,5/10/2022,2022,Victoria,Seychelles,Fintech
+Miro,https://www.cbinsights.com/company/realtimeboard,$ 17.5,1/5/2022,2022,San Francisco,United States,Internet software & services
+DataStax,https://www.cbinsights.com/company/datastax,$ 1.6,5/26/2021,2021,Santa Clara,United States,Data management & analytics
+solarisBank,https://www.cbinsights.com/company/solarisbank,$ 1.65,7/13/2021,2021,Berlin,Germany,Fintech
+Sorare,https://www.cbinsights.com/company/sorare,$ 4.3,9/21/2021,2021,Paris,France,Internet software & services
+ONE,https://www.cbinsights.com/company/one-championship,$ 1.0,12/8/2021,2021,,Singapore,Internet software & services
+InFarm,https://www.cbinsights.com/company/infarm,$ 1.0,12/16/2021,2021,Berlin,Germany,Other
+Kopi Kenangan,https://www.cbinsights.com/company/kopi-kenangan,$ 1.0,12/27/2021,2021,Jakarta,Indonesia,Consumer & retail
+Haomao.AI,https://www.cbinsights.com/company/maomo-zhixing,$ 1.0,12/22/2021,2021,Beijing,China,Artificial Intelligence
+VOI,https://www.cbinsights.com/company/voi-technology,$ 1.0,12/21/2021,2021,Stockholm,Sweden,Travel
+Rothy's,https://www.cbinsights.com/company/rothys,$ 1.0,12/21/2021,2021,San Francisco,United States,Consumer & retail
+Noname Security,https://www.cbinsights.com/company/noname-security,$ 1.0,12/15/2021,2021,Palo Alto,United States,Cybersecurity
+Cadence,https://www.cbinsights.com/company/cadence-4,$ 1.0,12/14/2021,2021,New York,United States,Health
+SnapLogic,https://www.cbinsights.com/company/snaplogic,$ 1.0,12/13/2021,2021,San Mateo,United States,Internet software & services
+SellerX,https://www.cbinsights.com/company/sellerx,$ 1.0,12/9/2021,2021,Berlin,Germany,E-commerce & direct-to-consumer
+Nature's Fynd,https://www.cbinsights.com/company/sustainable-bioproducts,$ 1.0,7/19/2021,2021,Chicago,United States,Consumer & retail
+Pet Circle,https://www.cbinsights.com/company/paws-for-life,$ 1.0,12/6/2021,2021,Alexandria,Australia,E-commerce & direct-to-consumer
+ReliaQuest,https://www.cbinsights.com/company/reliaquest,$ 1.0,12/1/2021,2021,Tampa,United States,Cybersecurity
+Iodine Software,https://www.cbinsights.com/company/iodine-software,$ 1.0,12/1/2021,2021,Austin,United States,Data management & analytics
+Anyscale,https://www.cbinsights.com/company/anyscale,$ 1.0,12/7/2021,2021,Berkeley,United States,Artificial Intelligence
+YipitData,https://www.cbinsights.com/company/yipit,$ 1.0,12/6/2021,2021,New York,United States,Internet software & services
+Clara,https://www.cbinsights.com/company/clara-2,$ 1.0,12/6/2021,2021,Mexico City,Mexico,Fintech
+Lessen,https://www.cbinsights.com/company/lessen,$ 1.0,11/30/2021,2021,Scottsdale,United States,Internet software & services
+NoBroker,https://www.cbinsights.com/company/nobroker,$ 1.0,11/23/2021,2021,Bengaluru,India,Internet software & services
+Expel,https://www.cbinsights.com/company/expel,$ 1.0,11/18/2021,2021,Herndon,United States,Cybersecurity
+Owkin,https://www.cbinsights.com/company/owkin,$ 1.0,11/18/2021,2021,New York,United States,Artificial Intelligence
+Stytch,https://www.cbinsights.com/company/stytch,$ 1.0,11/18/2021,2021,San Francisco,United States,Cybersecurity
+PLACE,https://www.cbinsights.com/company/place,$ 1.0,11/17/2021,2021,Bellingham,United States,Internet software & services
+Heyday,https://www.cbinsights.com/company/heyday-1,$ 1.0,11/16/2021,2021,Chicago,United States,E-commerce & direct-to-consumer
+Mensa Brands,https://www.cbinsights.com/company/mensa-brands,$ 1.0,11/16/2021,2021,Bengaluru,India,Other
+Gaussian Robotics,https://www.cbinsights.com/company/gaussian-robotics,$ 1.1,11/10/2021,2021,Shanghai,China,Hardware
+Wrapbook,https://www.cbinsights.com/company/wrapbook,$ 1.0,11/10/2021,2021,New York,United States,Fintech
+Contrast Security,https://www.cbinsights.com/company/contrast-security,$ 1.0,11/9/2021,2021,Los Altos,United States,Cybersecurity
+OpenWeb,https://www.cbinsights.com/company/spotim,$ 1.0,11/9/2021,2021,New York,United States,Internet software & services
+IGAWorks,https://www.cbinsights.com/company/igaworks,$ 1.0,11/8/2021,2021,Seoul,South Korea,Internet software & services
+Razor,https://www.cbinsights.com/company/razor-1,$ 1.0,11/8/2021,2021,Berlin,Germany,Consumer & retail
+Drata,https://www.cbinsights.com/company/drata,$ 1.0,11/8/2021,2021,San Diego,United States,Cybersecurity
+Vagaro,https://www.cbinsights.com/company/vagaro,$ 1.0,11/3/2021,2021,Dublin,United States,Internet software & services
+Tezign,https://www.cbinsights.com/company/tezign,$ 1.0,11/2/2021,2021,Shanghai,China,Internet software & services
+Moka,https://www.cbinsights.com/company/moka-1,$ 1.0,11/2/2021,2021,Beijing,China,Internet software & services
+Augury,https://www.cbinsights.com/company/augury-systems,$ 1.0,10/26/2021,2021,New York,United States,Artificial intelligence
+Fabric,https://www.cbinsights.com/company/commonsense,$ 1.0,10/26/2021,2021,New York,United States,"Supply chain, logistics, & delivery"
+CargoX,https://www.cbinsights.com/company/cargox,$ 1.0,10/21/2021,2021,Sao Paulo,Brazil,"Supply chain, logistics, & delivery"
+Dental Monitoring,https://www.cbinsights.com/company/dental-monitoring,$ 1.0,10/21/2021,2021,Paris,France,Health
+Zopa,https://www.cbinsights.com/company/zopa,$ 1.0,10/19/2021,2021,London,United Kingdom,Fintech
+Weights & Biases,https://www.cbinsights.com/company/weights-and-biases,$ 1.0,10/13/2021,2021,San Francisco,United States,Artificial intelligence
+MobiKwik,https://www.cbinsights.com/company/mobikwik,$ 1.0,10/13/2021,2021,Gurugram,India,Fintech
+Swile,https://www.cbinsights.com/company/lunchr,$ 1.0,10/11/2021,2021,Montpellier,France,Fintech
+Savage X Fenty,https://www.cbinsights.com/company/savage-x-fenty,$ 1.0,2/10/2021,2021,El Segundo,United States,E-commerce & direct-to-consumer
+Solo.io,https://www.cbinsights.com/company/soloio,$ 1.0,10/7/2021,2021,Cambridge,United States,Internet software & services
+Chronosphere,https://www.cbinsights.com/company/chronosphere,$ 1.0,10/7/2021,2021,New York,United States,Data management & analytics
+Masterworks,https://www.cbinsights.com/company/masterworks,$ 1.0,10/5/2021,2021,New York,United States,Fintech
+Licious,https://www.cbinsights.com/company/licious,$ 1.0,10/5/2021,2021,Bengaluru,India,E-commerce & direct-to-consumer
+Ajaib,https://www.cbinsights.com/company/ajaib,$ 1.0,10/4/2021,2021,Jakarta,Indonesia,Fintech
+TrialSpark,https://www.cbinsights.com/company/trialspark,$ 1.0,9/30/2021,2021,New York,United States,Health
+Vedantu,https://www.cbinsights.com/company/vedantu,$ 1.0,9/29/2021,2021,Bengaluru,India,Edtech
+Ninja Van,https://www.cbinsights.com/company/ninja-logistics,$ 1.0,9/27/2021,2021,,Singapore,"Supply chain, logistics, & delivery"
+HAYDON,https://www.cbinsights.com/company/haydon,$ 1.0,9/24/2021,2021,Shanghai,China,Consumer & retail
+Keenon Robotics,https://www.cbinsights.com/company/keenon-robotics,$ 1.0,9/15/2021,2021,Shanghai,China,"Supply chain, logistics, & delivery"
+PandaDoc,https://www.cbinsights.com/company/truelayer,$ 1.0,9/22/2021,2021,San Francisco,United States,Internet software & services
+Assembly,https://www.cbinsights.com/company/assembly,$ 1.0,9/21/2021,2021,Culver City,United States,Internet software & services
+TrueLayer,https://www.cbinsights.com/company/truelayer,$ 1.0,9/21/2021,2021,London,United Kingdom,Fintech
+Xendit,https://www.cbinsights.com/company/xendit,$ 1.0,9/14/2021,2021,Jakarta,Indonesia,Fintech
+Orchard,https://www.cbinsights.com/company/perch,$ 1.0,9/9/2021,2021,New York,United States,Fintech
+Mammoth Biosciences,https://www.cbinsights.com/company/mammoth-diagnostics,$ 1.0,9/9/2021,2021,Brisbane,United States,Health
+GrubMarket,https://www.cbinsights.com/company/grubmarket,$ 1.2,9/14/2021,2021,San Francisco,United States,E-commerce & direct-to-consumer
+Agile Robots,https://www.cbinsights.com/company/agile-robots,$ 1.0,9/9/2021,2021,Munich,Germany,Hardware
+Berlin Brands Group,https://www.cbinsights.com/company/chal-tec,$ 1.0,9/1/2021,2021,Berlin,Germany,E-commerce & direct-to-consumer
+Cider,https://www.cbinsights.com/company/cider,$ 1.0,9/2/2021,2021,,Hong Kong,E-commerce & direct-to-consumer
+1KMXC,https://www.cbinsights.com/company/yigongli,$ 1.0,8/30/2021,2021,Hangzhou,China,Hardware
+PicsArt,https://www.cbinsights.com/company/picsart,$ 1.0,8/26/2021,2021,San Francisco,United States,Mobile & telecommunications
+Shield AI,https://www.cbinsights.com/company/shield-ai,$ 1.0,8/24/2021,2021,San Diego,United States,Artificial intelligence
+Dunamu,https://www.cbinsights.com/company/dunamu,$ 1.0,7/22/2021,2021,Seoul,South Korea,Fintech
+Maven Clinic,https://www.cbinsights.com/company/maven-clinic,$ 1.0,8/17/2021,2021,New York,United States,Health
+Gelato,https://www.cbinsights.com/company/gelato-group,$ 1.0,8/16/2021,2021,Oslo,Norway,E-commerce & direct-to-consumer
+Snorkel AI,https://www.cbinsights.com/company/snorkelai,$ 1.0,8/9/2021,2021,Palo Alto,United States,Artificial intelligence
+Freshbooks,https://www.cbinsights.com/company/freshbooks,$ 1.0,8/10/2021,2021,Toronto,Canada,Fintech
+Bluecore,https://www.cbinsights.com/company/triggermail,$ 1.0,8/5/2021,2021,New York,United States,Artificial intelligence
+Human Interest,https://www.cbinsights.com/company/captain401,$ 1.0,8/4/2021,2021,San Francisco,United States,Fintech
+NIUM,https://www.cbinsights.com/company/instarem,$ 1.0,7/13/2021,2021,,Singapore,Fintech
+BlackBuck,https://www.cbinsights.com/company/zinka,$ 1.0,7/22/2021,2021,Bengaluru,India,"Supply chain, logistics, & delivery"
+Interos,https://www.cbinsights.com/company/interos,$ 1.0,7/22/2021,2021,Arlington,United States,"Supply chain, logistics, & delivery"
+GO1,https://www.cbinsights.com/company/go1,$ 1.0,7/19/2021,2021,Brisbane,Australia,Internet software & services
+Carson Group,https://www.cbinsights.com/company/carson-group,$ 1.0,7/14/2021,2021,Lincoln,United States,Fintech
+dMed Biopharmaceutical,https://www.cbinsights.com/company/dmed,$ 1.0,7/12/2021,2021,Shanghai,China,Health
+Xiaobing,https://www.cbinsights.com/company/xiaobing,$ 1.0,7/12/2021,2021,Beijing,China,Fintech
+Pantheon Systems,https://www.cbinsights.com/company/pantheon,$ 1.0,7/13/2021,2021,San Francisco,United States,Internet software & services
+Amperity,https://www.cbinsights.com/company/amperity,$ 1.0,7/13/2021,2021,Seattle,United States,Artificial intelligence
+MobileCoin,https://www.cbinsights.com/company/mobilecoin,$ 1.06,7/7/2021,2021,San Francisco,United States,Fintech
+ShipBob,https://www.cbinsights.com/company/shipbob,$ 1.0,6/29/2021,2021,Chicago,United States,"Supply chain, logistics, & delivery"
+Visier,https://www.cbinsights.com/company/visier,$ 1.0,6/29/2021,2021,Vancouver,Canada,Internet software & services
+Morning Consult,https://www.cbinsights.com/company/morning-consult,$ 1.0,6/8/2021,2021,Washington DC,United States,Internet software & services
+SmartAsset,https://www.cbinsights.com/company/smartasset,$ 1.0,6/24/2021,2021,New York,United States,Fintech
+Worldcoin,https://www.cbinsights.com/company/worldcoin,$ 1.0,6/29/2021,2021,San Francisco,United States,Fintech
+Aircall,https://www.cbinsights.com/company/aircall,$ 1.0,6/23/2021,2021,New York,United States,Internet software & services
+JoyTunes,https://www.cbinsights.com/company/joytunes,$ 1.0,6/21/2021,2021,Tel Aviv,Israel,Edtech
+Claroty,https://www.cbinsights.com/company/claroty,$ 1.0,6/17/2021,2021,New York,United States,Cybersecurity
+Bringg,https://www.cbinsights.com/company/bringg,$ 1.0,6/16/2021,2021,Tel Aviv,Israel,"Supply chain, logistics, & delivery"
+Xiaoe Tech,https://www.cbinsights.com/company/xiaoe-tech,$ 1.0,6/15/2021,2021,Shenzhen,China,Internet software & services
+Tractable,https://www.cbinsights.com/company/tractable,$ 1.0,6/16/2021,2021,London,United Kingdom,Artificial intelligence
+Carro,https://www.cbinsights.com/company/carro,$ 1.0,6/14/2021,2021,,Singapore,E-commerce & direct-to-consumer
+EcoFlow,https://www.cbinsights.com/company/ecoflow,$ 1.0,6/10/2021,2021,Shenzhen,China,Hardware
+LetsGetChecked,https://www.cbinsights.com/company/letsgetchecked,$ 1.0,6/7/2021,2021,Dublin,Ireland,Health
+Thirty Madison,https://www.cbinsights.com/company/keeps,$ 1.0,6/2/2021,2021,New York,United States,Health
+Shippo,https://www.cbinsights.com/company/shippo,$ 1.0,6/2/2021,2021,San Francisco,United States,"Supply chain, logistics, & delivery"
+Matrixport,https://www.cbinsights.com/company/matrixport,$ 1.05,6/1/2021,2021,,Singapore,Fintech
+Printful,https://www.cbinsights.com/company/printful,$ 1.0,5/24/2021,2021,Charlotte,United States,Other
+Vise,https://www.cbinsights.com/company/vise-ai,$ 1.0,5/18/2021,2021,New York,United States,Fintech
+Amount,https://www.cbinsights.com/company/amount,$ 1.0,5/17/2021,2021,Chicago,United States,Fintech
+Axtria,https://www.cbinsights.com/company/axtria,$ 1.0,5/13/2021,2021,Berkeley Heights,United States,Data management & analytics
+Forte Labs,https://www.cbinsights.com/company/forte-labs,$ 1.73,5/12/2021,2021,San Francisco,United States,Fintech
+Zihaiguo,https://www.cbinsights.com/company/zihaiguo,$ 1.0,5/6/2021,2021,Chongqing,China,Consumer & retail
+TensTorrent,https://www.cbinsights.com/company/tenstorrent,$ 1.0,5/5/2021,2021,Toronto,Canada,Artificial intelligence
+Shift Technology,https://www.cbinsights.com/company/shift-technology,$ 1.0,5/6/2021,2021,Paris,France,Artificial intelligence
+Firefly Aerospace,https://www.cbinsights.com/company/firefly-systems,$ 1.1,5/4/2021,2021,Cedar Park,United States,Other
+XForcePlus,https://www.cbinsights.com/company/yunli-information,$ 1.0,6/1/2021,2021,Shanghai,China,Internet software & services
+Mux,https://www.cbinsights.com/company/mux,$ 1.0,4/30/2021,2021,San Francisco,United States,Internet software & services
+MOLOCO,https://www.cbinsights.com/company/moloco,$ 1.5,4/29/2021,2021,Redwood City,United States,Artificial intelligence
+Capsule,https://www.cbinsights.com/company/capsule1,$ 1.0,4/28/2021,2021,New York,United States,Health
+SaltPay,https://www.cbinsights.com/company/saltpay,$ 1.0,4/9/2021,2021,London,United Kingdom,Fintech
+Sift,https://www.cbinsights.com/company/sift-science,$ 1.0,4/22/2021,2021,San Francisco,United States,Artificial intelligence
+Injective Protocol,https://www.cbinsights.com/company/injective-protocol,$ 1.0,4/20/2021,2021,New York,United States,Fintech
+Fiture,https://www.cbinsights.com/company/fiture,$ 1.0,4/14/2021,2021,Chengdu,China,Health
+Groq,https://www.cbinsights.com/company/groq,$ 1.0,4/14/2021,2021,Mountain View,United States,Artificial intelligence
+Clearcover,https://www.cbinsights.com/company/clearcover,$ 1.0,4/13/2021,2021,Chicago,United States,Fintech
+The Zebra,https://www.cbinsights.com/company/insurance-zebra,$ 1.0,4/12/2021,2021,Austin,United States,E-commerce & direct-to-consumer
+Hyperchain,https://www.cbinsights.com/company/hyperchian,$ 1.0,4/11/2021,2021,Hangzhou,China,Fintech
+Cameo,https://www.cbinsights.com/company/cameo,$ 1.0,3/30/2021,2021,Chicago,United States,Internet software & services
+Yunxuetang,https://www.cbinsights.com/company/yunxuetang,$ 1.0,3/29/2021,2021,Suzhou,China,Edtech
+Feedzai,https://www.cbinsights.com/company/feedzai,$ 1.0,3/24/2021,2021,San Mateo,United States,Artificial intelligence
+Sidecar Health,https://www.cbinsights.com/company/sidecar-health,$ 1.0,1/26/2021,2021,El Segundo,United States,Fintech
+Evidation,https://www.cbinsights.com/company/evidation-health,$ 1.0,3/22/2021,2021,San Mateo,United States,Health
+PatSnap,https://www.cbinsights.com/company/patsnap,$ 1.0,3/16/2021,2021,,Singapore,Internet software & services
+Aqua Security,https://www.cbinsights.com/company/scalock,$ 1.0,3/10/2021,2021,Ramat Gan,Israel,Cybersecurity
+Newsela,https://www.cbinsights.com/company/newsela,$ 1.0,2/25/2021,2021,New York,United States,Edtech
+Skydio,https://www.cbinsights.com/company/skydio,$ 1.0,2/25/2021,2021,Redwood City,United States,"Supply chain, logistics, & delivery"
+WeBull,https://www.cbinsights.com/company/fumi-information-technology,$ 1.0,2/18/2021,2021,Changsha,China,Fintech
+Standard,https://www.cbinsights.com/company/standard-cognition,$ 1.0,2/17/2021,2021,San Francisco,United States,Artificial intelligence
+Locus Robotics,https://www.cbinsights.com/company/locus-robotics,$ 1.0,2/17/2021,2021,Wilmington,United States,Hardware
+Axiom Space,https://www.cbinsights.com/company/axiom-space,$ 1.0,2/16/2021,2021,Houston,United States,Other
+Flash Express,https://www.cbinsights.com/company/flash-express,$ 1.0,2/1/2021,2021,Bangkok,Thailand,"Supply chain, logistics, & delivery"
+Splashtop,https://www.cbinsights.com/company/splashtop,$ 1.0,1/27/2021,2021,San Jose,United States,Internet software & services
+PPRO,https://www.cbinsights.com/company/ppro,$ 1.0,1/19/2021,2021,London,United Kingdom,Fintech
+MadeiraMadeira,https://www.cbinsights.com/company/madeiramadeira,$ 1.0,1/7/2021,2021,Parana,Brazil,E-commerce & direct-to-consumer
+News Break,https://www.cbinsights.com/company/particle-media,$ 1.0,1/7/2021,2021,Mountain View,United States,Internet software & services
+Quantum Metric,https://www.cbinsights.com/company/quantum-metric,$ 1.0,1/7/2021,2021,Colorado Springs,United States,Data management & analytics
+Ample,https://www.cbinsights.com/company/ample,$ 1.02,11/11/2021,2021,San Francisco,United States,Hardware
+Mixpanel,https://www.cbinsights.com/company/mixpanel,$ 1.05,11/15/2021,2021,San Francisco,United States,Internet software & services
+Density,https://www.cbinsights.com/company/density,$ 1.05,11/10/2021,2021,San Francisco,United States,Hardware
+Sendbird,https://www.cbinsights.com/company/smile-family-inc,$ 1.05,4/6/2021,2021,San Mateo,United States,Mobile & telecommunications
+Mamaearth,https://www.cbinsights.com/company/mamaearth,$ 1.07,12/28/2021,2021,Gurgaon,India,E-commerce & direct-to-consumer
+56PINGTAI,https://www.cbinsights.com/company/56pingtai,$ 1.08,1/25/2021,2021,Shanghai,China,"Supply chain, logistics, & delivery"
+UISEE Technology,https://www.cbinsights.com/company/uisee-technology,$ 1.08,1/25/2021,2021,Beijing,China,"Supply chain, logistics, & delivery"
+GlobalBees,https://www.cbinsights.com/company/globalbees,$ 1.1,12/28/2021,2021,New Delhi,India,E-commerce & direct-to-consumer
+Turing,https://www.cbinsights.com/company/turing,$ 1.1,12/20/2021,2021,Palo Alto,United States,Internet software & services
+Fundbox,https://www.cbinsights.com/company/fundbox,$ 1.1,11/30/2021,2021,San Francisco,United States,Fintech
+The Bank of London,https://www.cbinsights.com/company/the-bank-of-london,$ 1.1,11/30/2021,2021,London,United Kingdom,Fintech
+Daily Harvest,https://www.cbinsights.com/company/daily-harvest,$ 1.1,11/16/2021,2021,New York,United States,E-commerce & direct-to-consumer
+Acko General Insurance,https://www.cbinsights.com/company/acko-general-insurance,$ 1.1,10/28/2021,2021,Bengaluru,India,Fintech
+Enpal,https://www.cbinsights.com/company/enpal,$ 1.1,10/18/2021,2021,Berlin,Germany,Internet software & services
+Karat,https://www.cbinsights.com/company/karat-1,$ 1.1,10/13/2021,2021,Seattle,United States,Internet software & services
+apna,https://www.cbinsights.com/company/apna,$ 1.1,9/15/2021,2021,Bengaluru,India,Internet software & services
+Carousell,https://www.cbinsights.com/company/carousell,$ 1.1,9/15/2021,2021,,Singapore,E-commerce & direct-to-consumer
+People.ai,https://www.cbinsights.com/company/peopleai-1,$ 1.1,8/11/2021,2021,San Francisco,United States,Internet software & services
+Hailo,https://www.cbinsights.com/company/hailo-1,$ 1.0,10/12/2021,2021,Tel Aviv,Israel,Artificial intelligence
+G2,https://www.cbinsights.com/company/g2-labs,$ 1.1,6/22/2021,2021,Chicago,United States,Internet software & services
+Qingting FM,https://www.cbinsights.com/company/qingting-fm,$ 1.1,6/2/2021,2021,Shanghai,China,Internet software & services
+Sunbit,https://www.cbinsights.com/company/sunbit,$ 1.1,5/20/2021,2021,Los Angeles,United States,Fintech
+Rightway,https://www.cbinsights.com/company/rightway-healthcare,$ 1.1,3/30/2021,2021,New York,United States,Health
+Zego,https://www.cbinsights.com/company/zego,$ 1.1,3/9/2021,2021,London,United Kingdom,Fintech
+Nexthink,https://www.cbinsights.com/company/nexthink,$ 1.1,2/8/2021,2021,Prilly,Switzerland,Data management & analytics
+Sennder,https://www.cbinsights.com/company/sennder,$ 1.1,1/14/2021,2021,Berlin,Germany,"Supply chain, logistics, & delivery"
+At-Bay,https://www.cbinsights.com/company/at-bay,$ 1.12,7/27/2021,2021,Mountain View,United States,Fintech
+Elemy,https://www.cbinsights.com/company/elemy,$ 1.15,10/6/2021,2021,San Francisco,United States,Health
+Rebellion Defense,https://www.cbinsights.com/company/rebellion-defense,$ 1.15,9/16/2021,2021,Washington DC,United States,Artificial intelligence
+Guideline,https://www.cbinsights.com/company/guideline-technologies,$ 1.15,6/16/2021,2021,San Mateo,United States,Fintech
+IRL,https://www.cbinsights.com/company/get-together,$ 1.17,6/15/2021,2021,San Francisco,United States,Internet software & services
+Modern Health,https://www.cbinsights.com/company/modern-health,$ 1.17,2/11/2021,2021,San Francisco,United States,Health
+CloudBees,https://www.cbinsights.com/company/cloudbees,$ 1.15,12/9/2021,2021,San Jose,United States,Data management & analytics
+Merama,https://www.cbinsights.com/company/merama,$ 1.2,12/9/2021,2021,Mexico City,Mexico,E-commerce & direct-to-consumer
+Jokr,https://www.cbinsights.com/company/jokr,$ 1.2,12/2/2021,2021,New York,United States,"Supply chain, logistics, & delivery"
+Pristyn Care,https://www.cbinsights.com/company/pristyn-care,$ 1.4,12/7/2021,2021,Gurugram,India,Health
+AgentSync,https://www.cbinsights.com/company/agentsync,$ 1.2,12/7/2021,2021,Denver,United States,Fintech
+MyGlamm,https://www.cbinsights.com/company/myglamm,$ 1.2,11/10/2021,2021,Mumbai,India,E-commerce & direct-to-consumer
+CarDekho,https://www.cbinsights.com/company/cardekho,$ 1.2,10/13/2021,2021,Jaipur,India,E-commerce & direct-to-consumer
+Gem,https://www.cbinsights.com/company/gem-1,$ 1.2,9/28/2021,2021,San Francisco,United States,Internet software & services
+Copado,https://www.cbinsights.com/company/copado,$ 1.2,9/13/2021,2021,Chicago,United States,Data management & analytics
+Offchain Labs,https://www.cbinsights.com/company/offchain-labs,$ 1.2,8/31/2021,2021,Princeton,United States,Internet software & services
+Oda,https://www.cbinsights.com/company/kolonialno,$ 1.2,6/2/2021,2021,Oslo,Norway,E-commerce & direct-to-consumer
+DailyPay,https://www.cbinsights.com/company/dailypay,$ 1.2,5/18/2021,2021,New York,United States,Fintech
+MindTickle,https://www.cbinsights.com/company/mindtickle,$ 1.2,8/3/2021,2021,San Francisco,United States,Internet software & services
+FloQast,https://www.cbinsights.com/company/floqast,$ 1.2,7/21/2021,2021,Los Angeles,United States,Fintech
+Prime Medicine,https://www.cbinsights.com/company/prime-medicine,$ 1.2,7/13/2021,2021,Cambridge,United States,Health
+Rohlik Group,https://www.cbinsights.com/company/rohlik-group,$ 1.2,7/1/2021,2021,Prague,Czech Republic,"Supply chain, logistics, & delivery"
+SmartMore,https://www.cbinsights.com/company/smartmore,$ 1.2,6/24/2021,2021,Shenzhen,China,Artificial Intelligence
+Alation,https://www.cbinsights.com/company/alation,$ 1.2,6/3/2021,2021,Redwood City,United States,Internet software & services
+Ada Support,https://www.cbinsights.com/company/volley,$ 1.2,5/7/2021,2021,Toronto,Canada,Artificial intelligence
+Vectra Networks,https://www.cbinsights.com/company/vectra-networks,$ 1.2,4/29/2021,2021,San Jose,United States,Artificial intelligence
+Cava Group,https://www.cbinsights.com/company/cava-mezze-grill,$ 1.3,4/27/2021,2021,Washington,United States,Other
+Aibee,https://www.cbinsights.com/company/aibee,$ 1.0,4/13/2021,2021,Beijing,China,Artificial intelligence
+Pilot.com,https://www.cbinsights.com/company/pilot,$ 1.2,3/26/2021,2021,San Francisco,United States,Fintech
+Public,https://www.cbinsights.com/company/matador,$ 1.2,2/17/2021,2021,New York,United States,Fintech
+Tealium,https://www.cbinsights.com/company/tealium,$ 1.2,2/3/2021,2021,San Diego,United States,Internet software & services
+Spiber,https://www.cbinsights.com/company/spiber,$ 1.22,9/8/2021,2021,Tsuruoka,Japan,Other
+inDriver,https://www.cbinsights.com/company/indriver,$ 1.23,2/1/2021,2021,Mountain View,United States,Auto & transportation 
+Nexii,https://www.cbinsights.com/company/nexii,$ 1.23,9/8/2021,2021,Vancouver,Canada,Other
+EQRx,https://www.cbinsights.com/company/eqrx,$ 1.23,1/11/2021,2021,Cambridge,United States,Health
+Shulan Health,https://www.cbinsights.com/company/shulan-hospital,$ 1.24,3/1/2021,2021,Hangzhou,China,Health
+Enflame,https://www.cbinsights.com/company/enflame,$ 1.24,1/5/2021,2021,Shanghai,China,Hardware
+Tackle.io,https://www.cbinsights.com/company/tackleio,$ 1.25,12/21/2021,2021,Boise,United States,Internet software & services
+Incode Technologies,https://www.cbinsights.com/company/incode1,$ 1.25,12/7/2021,2021,San Francisco,United States,Cybersecurity
+Mythical Games,https://www.cbinsights.com/company/mythical-games,$ 1.25,11/4/2021,2021,Sherman Oaks,United States,Internet software & services
+Honor Technology,https://www.cbinsights.com/company/honor-technology,$ 1.25,10/5/2021,2021,San Francisco,United States,Internet software & services
+Marshmallow,https://www.cbinsights.com/company/marshmallow-financial-services,$ 1.25,9/8/2021,2021,London,United Kingdom,Fintech
+Huisuanzhang,https://www.cbinsights.com/company/hsuanzhang,$ 1.28,5/24/2021,2021,Beijing,China,Fintech
+STORD,https://www.cbinsights.com/company/stord,$ 1.3,9/13/2021,2021,Atlanta,United States,"Supply chain, logistics, & delivery"
+TUNGEE,https://www.cbinsights.com/company/tungee,$ 1.3,12/15/2021,2021,Guangzhou,China,Artificial Intelligence
+YugaByte,https://www.cbinsights.com/company/yugabyte,$ 1.3,10/28/2021,2021,Sunnyvale,United States,Data management & analytics
+Flock Freight,https://www.cbinsights.com/company/auptix,$ 1.3,10/20/2021,2021,Encinitas,United States,"Supply chain, logistics, & delivery"
+Betterment,https://www.cbinsights.com/company/betterment,$ 1.3,9/29/2021,2021,New York,United States,Fintech
+Konfio,https://www.cbinsights.com/company/konfio,$ 1.3,9/29/2021,2021,Mexico City,Mexico,Fintech
+DistroKid,https://www.cbinsights.com/company/distrokid,$ 1.3,8/16/2021,2021,New York,United States,Internet software & services
+TalkingData,https://www.cbinsights.com/company/talkingdata,$ 1.3,1/6/2021,2021,Beijing,China,Mobile & telecommunications
+Motorway,https://www.cbinsights.com/company/motorway,$ 1.33,11/29/2021,2021,London,United Kingdom,E-commerce & direct-to-consumer
+Signifyd,https://www.cbinsights.com/company/signifyd,$ 1.34,4/15/2021,2021,San Jose,United States,Fintech
+Yaoshibang,https://www.cbinsights.com/company/yaoshibang,$ 1.35,6/15/2021,2021,Guangzhou,China,Health
+Panther Labs,https://www.cbinsights.com/company/panther,$ 1.4,12/2/2021,2021,San Francisco,United States,Cybersecurity
+VideoAmp,https://www.cbinsights.com/company/videoamp,$ 1.4,10/21/2021,2021,Los Angeles,United States,Internet software & services
+Scalable Capital,https://www.cbinsights.com/company/scalable-capital,$ 1.4,6/8/2021,2021,Munich,Germany,Fintech
+Astranis Space Technologies,https://www.cbinsights.com/company/astranis,$ 1.4,4/14/2021,2021,San Francisco,United States,Mobile & telecommunications
+Degreed,https://www.cbinsights.com/company/degreed,$ 1.4,4/13/2021,2021,Pleasanton,United States,Edtech
+GupShup,https://www.cbinsights.com/company/sms-gupshup,$ 1.4,4/8/2021,2021,San Francisco,United States,Internet software & services
+Phenom People,https://www.cbinsights.com/company/phenom-people,$ 1.4,4/7/2021,2021,Ambler,United States,Internet software & services
+Rad Power Bikes,https://www.cbinsights.com/company/rad-power-bikes,$ 1.4,10/28/2021,2021,Seattle,United States,Auto & transportation
+Stash,https://www.cbinsights.com/company/stash-financial,$ 1.4,2/3/2021,2021,New York,United States,Fintech
+Five Star Business Finance,https://www.cbinsights.com/company/five-star-business-credits,$ 1.4,3/26/2021,2021,Chennai,India,Other
+Coda,https://www.cbinsights.com/company/krypton,$ 1.4,7/8/2021,2021,Mountain View,United States,Internet software & services
+Rebel Foods,https://www.cbinsights.com/company/rebel-foods,$ 1.4,10/7/2021,2021,Pune,India,E-commerce & direct-to-consumer
+Yotpo,https://www.cbinsights.com/company/yotpo,$ 1.4,3/18/2021,2021,New York,United States,Internet software & services
+Epidemic Sound,https://www.cbinsights.com/company/epidemic-sound,$ 1.4,3/11/2021,2021,Stockholm,Sweden,Internet software & services
+Figment,https://www.cbinsights.com/company/figment-networks,$ 1.4,12/20/2021,2021,Toronto,Canada,Internet software & services
+Papa,https://www.cbinsights.com/company/papa-technologies,$ 1.4,11/4/2021,2021,Miami,United States,Health
+SonderMind,https://www.cbinsights.com/company/sondermind,$ 1.42,7/28/2021,2021,Denver,United States,Health
+Valgen Medtech,https://www.cbinsights.com/company/dejin,$ 1.43,5/6/2021,2021,Hangzhou,China,Health
+Einride,https://www.cbinsights.com/company/einride,$ 1.44,12/31/2021,2021,Stockholm,Sweden,Auto & transportation
+M1,https://www.cbinsights.com/company/m1-finance,$ 1.45,7/14/2021,2021,Chicago,United States,Fintech
+Shukun Technology,https://www.cbinsights.com/company/shukun-technology,$ 1.46,8/16/2021,2021,Beijing,China,Artificial Intelligence
+Prometheus,https://www.cbinsights.com/company/prometheus-2,$ 1.5,9/23/2021,2021,Santa Cruz,United States,Other
+Zeta,https://www.cbinsights.com/company/zeta-tech,$ 1.5,5/24/2021,2021,San Francisco,United States,Fintech
+Veho,https://www.cbinsights.com/company/veho-1,$ 1.5,12/21/2021,2021,Boulder,United States,"Supply chain, logistics, & delivery"
+Airbyte,https://www.cbinsights.com/company/airbyte,$ 1.5,12/17/2021,2021,San Francisco,United States,Internet software & services
+Paradox,https://www.cbinsights.com/company/paradox-1,$ 1.5,12/27/2021,2021,Scottsdale,United States,Internet software & services
+Olist,https://www.cbinsights.com/company/solidarium,$ 1.5,12/15/2021,2021,Curitiba,Brazil,E-commerce & direct-to-consumer
+Solugen,https://www.cbinsights.com/company/solugen,$ 1.5,9/10/2021,2021,Houston,United States,Other
+CureFit,https://www.cbinsights.com/company/curefit,$ 1.5,11/10/2021,2021,Bengaluru,India,Health
+Lusha,https://www.cbinsights.com/company/lusha,$ 1.5,11/10/2021,2021,New York,United States,Internet software & services
+CoinList,https://www.cbinsights.com/company/coinlist,$ 1.5,10/15/2021,2021,San Francisco,United States,Fintech
+candy.com,https://www.cbinsights.com/company/candycom,$ 1.5,10/21/2021,2021,New York,United States,Internet software & services
+Built,https://www.cbinsights.com/company/built,$ 1.5,9/30/2021,2021,Nashville,United States,Internet software & services
+Andela,https://www.cbinsights.com/company/andela,$ 1.5,9/29/2021,2021,New York,United States,Internet software & services
+Ascend Money,https://www.cbinsights.com/company/ascend-money,$ 1.5,9/27/2021,2021,Bangkok,Thailand,Fintech
+Persona,https://www.cbinsights.com/company/persona-1,$ 1.5,9/15/2021,2021,San Francisco,United States,Cybersecurity
+Matillion,https://www.cbinsights.com/company/matillion,$ 1.5,9/15/2021,2021,Altrincham,United Kingdom,Data management & analytics
+1047 Games,https://www.cbinsights.com/company/1047-games,$ 1.5,9/14/2021,2021,Zephyr Cove,United States,Internet software & services
+Pacaso,https://www.cbinsights.com/company/pacaso,$ 1.5,3/24/2021,2021,Cincinnati,United States,Fintech
+TaxBit,https://www.cbinsights.com/company/taxbit,$ 1.5,8/4/2021,2021,Draper,United States,Fintech
+Culture Amp,https://www.cbinsights.com/company/culture-amp,$ 1.5,7/29/2021,2021,Richmond,Australia,Internet software & services
+NotCo,https://www.cbinsights.com/company/notco,$ 1.5,7/26/2021,2021,Santiago,Chile,Consumer & retail
+SmartRecruiters,https://www.cbinsights.com/company/smartrecruiters,$ 1.5,7/20/2021,2021,San Francisco,United States,Internet software & services
+impact.com,https://www.cbinsights.com/company/impact-radius,$ 1.5,7/13/2021,2021,Santa Barbara,United States,Internet software & services
+YunQuNa,https://www.cbinsights.com/company/yunquna,$ 1.5,6/29/2021,2021,Shanghai,China,"Supply chain, logistics, & delivery"
+Next Silicon,https://www.cbinsights.com/company/next-silicon,$ 1.5,6/14/2021,2021,Tel Aviv,Israel,Hardware
+Chipper Cash,https://www.cbinsights.com/company/chipper-cash,$ 2.0,5/31/2021,2021,San Francisco,United States,Fintech
+Snapdocs,https://www.cbinsights.com/company/snapdocs,$ 1.5,5/25/2021,2021,San Francisco,United States,Fintech
+ID.me,https://www.cbinsights.com/company/idme,$ 1.5,3/19/2021,2021,McLean,United States,Cybersecurity
+Uplight,https://www.cbinsights.com/company/uplight,$ 1.5,3/3/2021,2021,Boulder,United States,Other
+K Health,https://www.cbinsights.com/company/kang-health,$ 1.5,1/19/2021,2021,New York,United States,Health
+bolttech,https://www.cbinsights.com/company/amtrust-mobile-solutions,$ 1.5,7/1/2021,2021,,Singapore,Fintech
+Loom,https://www.cbinsights.com/company/loom2,$ 1.53,5/20/2021,2021,San Francisco,United States,Internet software & services
+Kitopi,https://www.cbinsights.com/company/kitopi,$ 1.55,7/1/2021,2021,Dubai,United Arab Emirates,"Supply chain, logistics, & delivery"
+Wenheyou,https://www.cbinsights.com/company/wenheyou,$ 1.55,4/17/2021,2021,Hunan,China,Other
+Iluvatar CoreX,https://www.cbinsights.com/company/iluvatar-corex,$ 1.55,3/1/2021,2021,Shanghai,China,Hardware
+Alloy,https://www.cbinsights.com/company/alloy2,$ 1.55,9/30/2021,2021,New York,United States,Fintech
+Truepill,https://www.cbinsights.com/company/truepill,$ 1.6,10/27/2021,2021,Hayward,United States,Health
+HomeLight,https://www.cbinsights.com/company/homelight,$ 1.7,9/2/2021,2021,San Francisco,United States,Fintech
+Mercury,https://www.cbinsights.com/company/mercury-technologies,$ 1.6,7/3/2021,2021,San Francisco,United States,Fintech
+ASAPP,https://www.cbinsights.com/company/getasapp,$ 1.6,5/19/2021,2021,New York,United States,Artificial intelligence
+Cognite,https://www.cbinsights.com/company/cognite,$ 1.5,5/19/2021,2021,Lysaker,Norway,Data management & analytics
+Generate Biomedicines,https://www.cbinsights.com/company/generate-biomedicines,$ 1.36,11/18/2021,2021,Cambridge,United States,Health
+Extend,https://www.cbinsights.com/company/extend,$ 1.36,5/18/2021,2021,San Francisco,United States,Fintech
+SafetyCulture,https://www.cbinsights.com/company/safetyculture,$ 1.6,5/3/2021,2021,Sydney,Australia,Internet software & services
+Clio,https://www.cbinsights.com/company/clio,$ 1.6,4/27/2021,2021,Burnaby,Canada,Internet software & services
+Tonal,https://www.cbinsights.com/company/tonal,$ 1.6,3/31/2021,2021,San Francisco,United States,E-commerce & direct-to-consumer
+Clari,https://www.cbinsights.com/company/clari,$ 2.6,3/3/2021,2021,Sunnyvale,United States,Internet software & services
+Carsome,https://www.cbinsights.com/company/carsome,$ 1.7,7/12/2021,2021,Selangor,Malaysia,E-commerce & direct-to-consumer
+ZenBusiness,https://www.cbinsights.com/company/startup-app,$ 1.7,11/9/2021,2021,Austin,United States,Fintech
+H2O.ai,https://www.cbinsights.com/company/h2oai,$ 1.7,11/7/2021,2021,Mountain View,United States,Artificial intelligence
+Reltio,https://www.cbinsights.com/company/reltio,$ 1.7,11/4/2021,2021,Redwood City,United States,Data management & analytics
+Dragos,https://www.cbinsights.com/company/dragos,$ 1.7,10/28/2021,2021,Hanover,United States,Cybersecurity
+Vestiaire Collective,https://www.cbinsights.com/company/vestiaire-collective,$ 1.7,3/1/2021,2021,Paris,France,E-commerce & direct-to-consumer
+Wave,https://www.cbinsights.com/company/wave,$ 1.7,9/7/2021,2021,Dakar,Senegal,Fintech
+CircleCI,https://www.cbinsights.com/company/circleci,$ 1.7,5/11/2021,2021,San Francisco,United States,Internet software & services
+Unite Us,https://www.cbinsights.com/company/unite-us,$ 1.6,3/16/2021,2021,New York,United States,Health
+DispatchHealth,https://www.cbinsights.com/company/dispatchhealth,$ 1.7,3/3/2021,2021,Denver,United States,Health
+Orca Security,https://www.cbinsights.com/company/orca-security,$ 1.8,3/23/2021,2021,Portland,United States,Cybersecurity
+Spinny,https://www.cbinsights.com/company/spinny,$ 1.75,11/24/2021,2021,Gurugram,India,E-commerce & direct-to-consumer
+Trulioo,https://www.cbinsights.com/company/trulioo,$ 1.75,6/7/2021,2021,Vancouver,Canada,Cybersecurity
+Cambrian BioPharma,https://www.cbinsights.com/company/cambrian-biopharma,$ 1.79,10/26/2021,2021,Brooklyn,United States,Health
+Slice,https://www.cbinsights.com/company/slice,$ 1.8,11/28/2021,2021,Bengaluru,India,Fintech
+Opentrons,https://www.cbinsights.com/company/opentrons,$ 1.8,9/23/2021,2021,New York,United States,Hardware
+FullStory,https://www.cbinsights.com/company/fullstory,$ 1.8,8/4/2021,2021,Atlanta,United States,Internet software & services
+Diamond Foundry,https://www.cbinsights.com/company/diamond-foundry,$ 1.8,3/29/2021,2021,San Francisco,United States,Other
+CFGI,https://www.cbinsights.com/company/cfgi,$ 1.85,9/15/2021,2021,Boston,United States,Fintech
+CoinSwitch Kuber,https://www.cbinsights.com/company/coinswitch,$ 1.9,10/6/2021,2021,Bangalore,India,Fintech
+Aledade,https://www.cbinsights.com/company/aledade,$ 1.9,1/19/2021,2021,Bethesda,United States,Health
+MX Technologies,https://www.cbinsights.com/company/moneydesktop,$ 1.9,1/13/2021,2021,Lehi,United States,Fintech
+Rokt,https://www.cbinsights.com/company/rokt,$ 1.95,12/16/2021,2021,New York,United States,Internet software & services
+Fenbi Education,https://www.cbinsights.com/company/fenbi-education,$ 1.95,2/7/2021,2021,Beijing,China,Edtech
+Devo Technology,https://www.cbinsights.com/company/logtrust,$ 2.0,10/26/2021,2021,Cambridge,United States,Data management & analytics
+UpGrad,https://www.cbinsights.com/company/upgrad,$ 2.25,8/9/2021,2021,Mumbai,India,Edtech
+Lunar,https://www.cbinsights.com/company/lunar-way,$ 2.0,7/12/2021,2021,Aarhus,Denmark,Fintech
+Dremio,https://www.cbinsights.com/company/dremio,$ 2.0,1/6/2021,2021,Santa Clara,United States,Data management & analytics
+LTK,https://www.cbinsights.com/company/rewardstyle,$ 2.0,11/22/2021,2021,Dallas,United States,Internet software & services
+SWORD Health,https://www.cbinsights.com/company/sword-health,$ 2.0,11/22/2021,2021,New York,United States,Health
+Netlify,https://www.cbinsights.com/company/netlify,$ 2.0,11/17/2021,2021,San Francisco,United States,Internet software & services
+StarkWare,https://www.cbinsights.com/company/starkware,$ 8.0,11/17/2021,2021,Netanya,Israel,Cybersecurity
+VerbIT,https://www.cbinsights.com/company/verbit,$ 2.0,6/8/2021,2021,New York,United States,Artificial intelligence
+Zilch,https://www.cbinsights.com/company/zilch,$ 2.0,11/10/2021,2021,London,United Kingdom,Fintech
+Mynt,https://www.cbinsights.com/company/mynt1,$ 2.0,11/1/2021,2021,Taguig City,Philippines,Fintech
+ClickHouse,https://www.cbinsights.com/company/clickhouse,$ 2.0,10/28/2021,2021,Portola Valley,United States,Data management & analytics
+Tier,https://www.cbinsights.com/company/tier-mobility,$ 2.0,10/25/2021,2021,Berlin,Germany,Travel
+Modern Treasury,https://www.cbinsights.com/company/modern-treasury,$ 2.0,10/6/2021,2021,San Francisco,United States,Fintech
+Advance Intelligence Group,https://www.cbinsights.com/company/advance-intelligence-group,$ 2.0,9/23/2021,2021,,Singapore,Artificial intelligence
+Black Sesame Technologies,https://www.cbinsights.com/company/black-sesame-technologies,$ 2.0,9/22/2021,2021,Shanghai,China,Artificial intelligence
+Spring Health,https://www.cbinsights.com/company/spring-health,$ 2.0,9/16/2021,2021,New York,United States,Health
+Misfits Market,https://www.cbinsights.com/company/misfits-market,$ 2.0,4/21/2021,2021,Pennsauken,United States,"Supply chain, logistics, & delivery"
+Aviatrix,https://www.cbinsights.com/company/aviatrix-systems,$ 2.0,9/8/2021,2021,Santa Clara,United States,Internet software & services
+Opay,https://www.cbinsights.com/company/opay,$ 2.0,8/23/2021,2021,Lagos,Nigeria,Fintech
+Divvy Homes,https://www.cbinsights.com/company/divvy-homes,$ 2.0,8/13/2021,2021,San Francisco,United States,Fintech
+XtalPi,https://www.cbinsights.com/company/xtalpi,$ 2.0,8/11/2021,2021,Shenzhen,China,Artificial intelligence
+MURAL,https://www.cbinsights.com/company/mural,$ 2.0,7/20/2021,2021,San Francisco,United States,Internet software & services
+Clip,https://www.cbinsights.com/company/payclip,$ 2.0,6/10/2021,2021,Mexico City,Mexico,Fintech
+Bunq,https://www.cbinsights.com/company/bunq,$ 2.0,6/18/2021,2021,Amsterdam,Netherlands,Fintech
+Iterable,https://www.cbinsights.com/company/iterable,$ 2.0,6/15/2021,2021,San Francisco,United States,Internet software & services
+Pipe,https://www.cbinsights.com/company/pipe,$ 2.0,5/19/2021,2021,Miami,United States,Fintech
+Beisen,https://www.cbinsights.com/company/beisen,$ 2.0,5/11/2021,2021,Beijing,China,Internet software & services
+Ethos,https://www.cbinsights.com/company/ethos,$ 2.7,5/11/2021,2021,San Francisco,United States,Fintech
+Kajabi,https://www.cbinsights.com/company/kajabi,$ 2.0,5/4/2021,2021,Irvine,United States,Internet software & services
+KRY,https://www.cbinsights.com/company/kry,$ 2.0,4/27/2021,2021,Stockholm,Sweden,Health
+Hive,https://www.cbinsights.com/company/thehive-ai,$ 2.0,4/21/2021,2021,San Francisco,United States,Artificial intelligence
+Clearco,https://www.cbinsights.com/company/clearbanc,$ 2.0,4/20/2021,2021,Toronto,Canada,Fintech
+Guoquan Shihui,https://www.cbinsights.com/company/guoquan-shihui,$ 2.0,3/17/2021,2021,Shanghai,China,Consumer & retail
+Earnix,https://www.cbinsights.com/company/earnix,$ 2.0,2/21/2021,2021,Giv'atayim,Israel,Fintech
+Forto,https://www.cbinsights.com/company/freighthub,$ 2.1,6/21/2021,2021,Berlin,Germany,"Supply chain, logistics, & delivery"
+Medable,https://www.cbinsights.com/company/medable,$ 2.1,10/26/2021,2021,Palo Alto,United States,Health
+Moveworks,https://www.cbinsights.com/company/moveworks,$ 2.1,6/30/2021,2021,Mountain View,United States,Artificial intelligence 
+ReCharge,https://www.cbinsights.com/company/recharge,$ 2.1,5/6/2021,2021,Los Angeles,United States,Fintech
+Urban Company,https://www.cbinsights.com/company/urbanclap-technologies,$ 2.1,4/27/2021,2021,Gurgaon,India,E-commerce & direct-to-consumer
+CoinDCX,https://www.cbinsights.com/company/coindcx,$ 2.15,8/10/2021,2021,Maharashtra,India,Fintech
+CloudWalk,https://www.cbinsights.com/company/cloudwalk,$ 2.15,9/8/2021,2021,Sao Paulo,Brazil,Fintech
+Neo4j,https://www.cbinsights.com/company/neo-technology,$ 2.0,6/17/2021,2021,San Mateo,United States,Data management & analytics
+Addepar,https://www.cbinsights.com/company/addepar,$ 2.17,6/15/2021,2021,Mountain View,United States,Fintech
+Motif FoodWorks,https://www.cbinsights.com/company/motif-ingredients,$ 2.2,6/16/2021,2021,Boston,United States,Consumer & retail 
+Bitso,https://www.cbinsights.com/company/bitso,$ 2.2,5/5/2021,2021,Mexico City,Mexico,Fintech
+Current,https://www.cbinsights.com/company/current,$ 2.2,4/27/2021,2021,New York,United States,Fintech
+Pattern,https://www.cbinsights.com/company/pattern-1,$ 2.25,10/6/2021,2021,Lehi,United States,Internet software & services
+Algolia,https://www.cbinsights.com/company/algolia,$ 2.25,7/28/2021,2021,San Francisco,United States,Internet software & services
+MoMo,https://www.cbinsights.com/company/mservice,$ 2.27,12/10/2021,2021,Ho Chi Minh City,Vietnam,Fintech
+Odoo,https://www.cbinsights.com/company/openerp,$ 2.3,7/29/2021,2021,Louvain-la-Neuve,Belgium,Internet software & services
+Bowery Farming,https://www.cbinsights.com/company/bowery-farming,$ 2.3,5/25/2021,2021,New York,United States,Other
+Jobandtalent,https://www.cbinsights.com/company/jobandtalent,$ 2.35,12/1/2021,2021,Madrid,Spain,Internet software & services
+ManyPets,https://www.cbinsights.com/company/bought-by-many,$ 2.35,6/1/2021,2021,London,United Kingdom,Fintech
+Project44,https://www.cbinsights.com/company/project44,$ 2.62,6/1/2021,2021,Chicago,United States,"Supply chain, logistics, & delivery"
+HoneyBook,https://www.cbinsights.com/company/honeybook,$ 2.4,5/4/2021,2021,San Francisco,United States,Internet software & services
+ABL Space Systems,https://www.cbinsights.com/company/abl-space-systems,$ 2.4,3/25/2021,2021,El Segundo,United States,Other
+BitSight Technologies,https://www.cbinsights.com/company/exabeam,$ 2.4,9/13/2021,2021,Boston,United States,Cybersecurity
+Paxos,https://www.cbinsights.com/company/itbit,$ 2.4,4/29/2021,2021,New York,United States,Fintech
+Star Charge,https://www.cbinsights.com/company/star-charge,$ 2.41,5/19/2021,2021,Changzhou,China,Auto & transportation
+Mobile Premier League,https://www.cbinsights.com/company/mobile-premier-league,$ 2.45,9/15/2021,2021,Bengaluru,India,Internet software & services
+Uala,https://www.cbinsights.com/company/uala,$ 2.45,8/13/2021,2021,Buenos Aires,Argentina,Fintech
+Hibob,https://www.cbinsights.com/company/hibob,$ 2.45,10/12/2021,2021,Tel Aviv,Israel,Internet software & services
+DriveNets,https://www.cbinsights.com/company/drivenets,$ 2.5,1/27/2021,2021,Ra'anana,Israel,Internet software & services
+Fetch Rewards,https://www.cbinsights.com/company/fetch-rewards-llc,$ 2.5,3/31/2021,2021,Madison,United States,E-commerce & direct-to-consumer
+Zetwerk,https://www.cbinsights.com/company/zetwerk,$ 2.68,8/20/2021,2021,Bengaluru,India,Internet software & services
+Sysdig,https://www.cbinsights.com/company/draios,$ 2.5,4/28/2021,2021,San Francisco,United States,Cybersecurity
+Vercel,https://www.cbinsights.com/company/zeit,$ 2.5,6/23/2021,2021,San Francisco,United States,Internet software & services
+Aura,https://www.cbinsights.com/company/isubscribed,$ 2.5,6/9/2021,2021,Burlington,United States,Cybersecurity
+Varo Bank,https://www.cbinsights.com/company/varo-money,$ 2.5,9/9/2021,2021,San Francisco,United States,Fintech
+Infra.Market,https://www.cbinsights.com/company/inframarket,$ 2.5,2/25/2021,2021,Thane,India,E-commerce & direct-to-consumer
+Side,https://www.cbinsights.com/company/side,$ 2.5,3/22/2021,2021,San Francisco,United States,Internet software & services
+Cribl,https://www.cbinsights.com/company/cribl,$ 2.5,8/25/2021,2021,San Francisco,United States,Data management & analytics
+Unico,https://www.cbinsights.com/company/acesso-digital,$ 2.6,8/3/2021,2021,Sao Paulo,Brazil,Artificial intelligence
+JumpCloud,https://www.cbinsights.com/company/jumpcloud,$ 2.62,9/13/2021,2021,Louisville,United States,Data management & analytics
+Axonius,https://www.cbinsights.com/company/axonius,$ 2.6,3/1/2021,2021,New York,United States,Cybersecurity
+Moglix,https://www.cbinsights.com/company/moglix,$ 2.6,5/17/2021,2021,,Singapore,E-commerce & direct-to-consumer
+Plume,https://www.cbinsights.com/company/accelera-mobile-broadband,$ 2.6,2/23/2021,2021,Palo Alto,United States,Internet software & services
+Sourcegraph,https://www.cbinsights.com/company/sourcegraph,$ 2.62,7/13/2021,2021,San Francisco,United States,Internet software & services
+ManoMano,https://www.cbinsights.com/company/manomano,$ 2.6,7/5/2021,2021,Paris,France,E-commerce & direct-to-consumer
+Thought Machine,https://www.cbinsights.com/company/thought-machine,$ 2.7,11/29/2021,2021,London,United Kingdom,Fintech
+Nextiva,https://www.cbinsights.com/company/nextiva,$ 2.7,9/14/2021,2021,Scottsdale,United States,Internet software & services
+Transmit Security,https://www.cbinsights.com/company/transmit-security,$ 2.74,6/22/2021,2021,Tel Aviv,Israel,Cybersecurity
+Dream Games,https://www.cbinsights.com/company/dream-games,$ 2.75,6/30/2021,2021,Istanbul,Turkey,Mobile & telecommunications
+MasterClass,https://www.cbinsights.com/company/yanka-industries,$ 2.75,5/13/2021,2021,San Francisco,United States,Edtech
+Alan,https://www.cbinsights.com/company/alan,$ 2.85,4/19/2021,2021,Paris,France,Fintech
+Flink,https://www.cbinsights.com/company/flink-2,$ 2.85,12/1/2021,2021,Berlin,Germany,E-commerce & direct-to-consumer
+DriveWealth,https://www.cbinsights.com/company/mysolomeo-holdings,$ 2.85,8/20/2021,2021,Chatham,United States,Fintech
+BharatPe,https://www.cbinsights.com/company/bharatpe,$ 2.85,7/30/2021,2021,New Delhi,India,Fintech
+Sentry,https://www.cbinsights.com/company/sentry,$ 3.0,2/18/2021,2021,San Francisco,United States,Other
+Remote,https://www.cbinsights.com/company/remote,$ 3.0,7/13/2021,2021,San Francisco,United States,Fintech
+Amber Group,https://www.cbinsights.com/company/amber-group,$ 3.0,6/21/2021,2021,,Hong Kong,Fintech
+Flutterwave,https://www.cbinsights.com/company/flutterwave,$ 3.0,3/9/2021,2021,San Francisco,United States,Fintech
+Lattice,https://www.cbinsights.com/company/lattice,$ 3.0,3/23/2021,2021,San Francisco,United States,Internet software & services
+Anchorage Digital,https://www.cbinsights.com/company/anchorage,$ 3.0,12/15/2021,2021,San Francisco,United States,Fintech
+Groww,https://www.cbinsights.com/company/groww,$ 3.0,4/7/2021,2021,Bengaluru,India,Fintech
+TradingView,https://www.cbinsights.com/company/tradingview,$ 3.0,10/14/2021,2021,Westerville,United States,Fintech
+Outschool,https://www.cbinsights.com/company/outschool,$ 3.0,4/14/2021,2021,San Francisco,United States,Edtech
+Sky Mavis,https://www.cbinsights.com/company/axie-infinity,$ 3.0,10/4/2021,2021,Ho Chi Minh City,Vietnam,Internet software & services
+Gorillas,https://www.cbinsights.com/company/gorillas,$ 3.1,3/25/2021,2021,Berlin,Germany,"Supply chain, logistics, & delivery"
+Grafana Labs,https://www.cbinsights.com/company/grafana-labs,$ 3.0,3/25/2021,2021,New York,United States,Internet software & services
+LaunchDarkly,https://www.cbinsights.com/company/launchdarkly,$ 3.0,8/10/2021,2021,Oakland,United States,Internet software & services
+Contentful,https://www.cbinsights.com/company/contentful,$ 3.0,7/28/2021,2021,Berlin,Germany,Internet software & services
+Carbon Health,https://www.cbinsights.com/company/carbon-health,$ 3.0,7/21/2021,2021,San Francisco,United States,Health
+Lucid Software,https://www.cbinsights.com/company/lucid-software,$ 3.0,6/29/2021,2021,South Jordan,United States,Internet software & services
+ActiveCampaign,https://www.cbinsights.com/company/activecampaign,$ 3.0,4/21/2021,2021,Chicago,United States,Internet software & services
+BlockFi,https://www.cbinsights.com/company/blockfi,$ 3.0,3/11/2021,2021,Jersey City,United States,Fintech
+Calendly,https://www.cbinsights.com/company/calendly,$ 3.0,1/26/2021,2021,Atlanta,United States,Internet software & services
+Nuvemshop,https://www.cbinsights.com/company/tienda-nube-nuvem-shop,$ 3.1,8/17/2021,2021,Sao Paulo,Brazil,E-commerce & direct-to-consumer
+PsiQuantum,https://www.cbinsights.com/company/psiq,$ 3.15,7/27/2021,2021,Palo Alto,United States,Hardware
+Retool,https://www.cbinsights.com/company/cfgi,$ 3.2,12/22/2021,2021,San Francisco,United States,Internet software & services
+Skims,https://www.cbinsights.com/company/skims,$ 3.2,4/9/2021,2021,Los Angeles,United States,E-commerce & direct-to-consumer
+Innovaccer,https://www.cbinsights.com/company/innovaccer,$ 3.2,2/19/2021,2021,San Francisco,United States,Health
+Blockstream,https://www.cbinsights.com/company/blockstream-corp,$ 3.2,8/24/2021,2021,Vancouver,Canada,Fintech
+Eruditus Executive Education,https://www.cbinsights.com/company/eruditus-executive-education,$ 3.2,8/12/2021,2021,Mumbai,India,Edtech
+Cedar,https://www.cbinsights.com/company/cedar,$ 3.2,3/9/2021,2021,New York,United States,Fintech
+Aiven,https://www.cbinsights.com/company/aiven,$ 3.21,10/18/2021,2021,Helsinki,Finland,Internet software & services
+BlockDaemon,https://www.cbinsights.com/company/blockdaemon,$ 3.25,9/21/2021,2021,Los Angeles,United States,Fintech
+Kurly,https://www.cbinsights.com/company/market-kurly,$ 3.3,7/9/2021,2021,Seoul,South Korea,"Supply chain, logistics, & delivery"
+Starling Bank,https://www.cbinsights.com/company/starling-bank,$ 3.34,3/8/2021,2021,London,United Kingdom,Fintech
+Starburst,https://www.cbinsights.com/company/starburst,$ 3.35,1/6/2021,2021,Boston,United States,Data management & analytics
+OwnBackup,https://www.cbinsights.com/company/ownbackup,$ 3.35,1/28/2021,2021,Englewood Cliffs,United States,Data management & analytics
+Upstox,https://www.cbinsights.com/company/rksv,$ 3.4,11/29/2021,2021,Mumbai,India,Fintech
+MoonPay,https://www.cbinsights.com/company/moonpay,$ 3.4,11/22/2021,2021,Miami,United States,Fintech
+Helion Energy,https://www.cbinsights.com/company/helion-energy,$ 3.5,11/5/2021,2021,Redmond,United States,Other
+Flock Safety,https://www.cbinsights.com/company/flock2,$ 3.5,7/13/2021,2021,Atlanta,United States,Hardware
+ChargeBee Technologies,https://www.cbinsights.com/company/chargebee,$ 3.5,4/20/2021,2021,San Francisco,United States,Fintech
+Handshake,https://www.cbinsights.com/company/handshake,$ 3.5,5/12/2021,2021,San Francisco,United States,Internet software & services
+Highspot,https://www.cbinsights.com/company/highspot,$ 3.5,2/22/2021,2021,Seattle,United States,Internet software & services
+GoStudent,https://www.cbinsights.com/company/gostudent,$ 3.5,6/22/2021,2021,Vienna,Austria,Edtech
+Celsius Network,https://www.cbinsights.com/company/celsius-network,$ 3.5,10/12/2021,2021,Hoboken,United States,Fintech
+Commure,https://www.cbinsights.com/company/commure,$ 3.5,9/16/2021,2021,San Francisco,United States,Internet software & services
+Rec Room,https://www.cbinsights.com/company/against-gravity-corp,$ 3.5,3/23/2021,2021,Seattle,United States,Internet software & services
+SpotOn,https://www.cbinsights.com/company/spoton,$ 3.6,5/26/2021,2021,San Francisco,United States,Fintech
+Relativity,https://www.cbinsights.com/company/kcura-corporation,$ 3.6,3/18/2021,2021,Chicago,United States,Internet software & services
+Whatnot,https://www.cbinsights.com/company/whatnot,$ 3.7,9/16/2021,2021,Marina del Rey,United States,E-commerce & direct-to-consumer
+Harness,https://www.cbinsights.com/company/harness,$ 3.7,1/14/2021,2021,San Francisco,United States,Artificial intelligence
+Papaya Global,https://www.cbinsights.com/company/papaya-global,$ 3.7,3/4/2021,2021,New York,United States,Internet software & services
+Redwood Materials,https://www.cbinsights.com/company/redwood-materials,$ 3.7,7/28/2021,2021,Carson City,United States,Other
+Noom,https://www.cbinsights.com/company/noom,$ 3.7,5/24/2021,2021,New York,United States,Health
+Dutchie,https://www.cbinsights.com/company/dutchie,$ 3.75,3/16/2021,2021,Bend,United States,E-commerce & direct-to-consumer
+Articulate,https://www.cbinsights.com/company/articulate,$ 3.75,7/1/2021,2021,New York,United States,Edtech
+Digit Insurance,https://www.cbinsights.com/company/digit-insurance,$ 4.0,1/15/2021,2021,Bengaluru,India,Fintech
+Webflow,https://www.cbinsights.com/company/webflow,$ 4.0,1/13/2021,2021,San Francisco,United States,Internet software & services
+Aurora Solar,https://www.cbinsights.com/company/aurora-solar,$ 4.0,5/24/2021,2021,San Francisco,United States,Internet software & services
+Vuori,https://www.cbinsights.com/company/airwallex,$ 4.0,10/13/2021,2021,Carlsbad,United States,E-commerce & direct-to-consumer
+Melio,https://www.cbinsights.com/company/melio,$ 4.0,1/25/2021,2021,New York,United States,Fintech
+BrowserStack,https://www.cbinsights.com/company/browserstack,$ 4.0,6/16/2021,2021,Dublin,Ireland,Internet software & services
+Clubhouse,https://www.cbinsights.com/company/clubhouse,$ 4.0,1/24/2021,2021,San Francisco,United States,Mobile & telecommunications
+Zapier,https://www.cbinsights.com/company/zapier,$ 4.0,1/14/2021,2021,Sunnyvale,United States,Internet software & services
+PointClickCare,https://www.cbinsights.com/company/pointclickcare,$ 4.0,1/7/2021,2021,Mississauga,Canada,Internet software & services
+CRED,https://www.cbinsights.com/company/cred,$ 4.01,4/6/2021,2021,Bengaluru,India,Fintech
+Weee!,https://www.cbinsights.com/company/weee,$ 4.1,3/16/2021,2021,Fremont,United States,"Supply chain, logistics, & delivery"
+BitPanda,https://www.cbinsights.com/company/bitpanda,$ 4.11,3/16/2021,2021,Vienna,Austria,Fintech
+SSENSE,https://www.cbinsights.com/company/ssense,$ 4.15,6/8/2021,2021,Montreal,Canada,E-commerce & direct-to-consumer
+dbt Labs,https://www.cbinsights.com/company/fishtown-analytics,$ 4.2,6/30/2021,2021,Philadelphia,United States,Data management & analytics
+Socure,https://www.cbinsights.com/company/socure,$ 4.5,3/16/2021,2021,New York,United States,Cybersecurity
+Lendable,https://www.cbinsights.com/company/feather-media,$ 4.58,3/31/2021,2021,London,United Kingdom,Fintech
+Color,https://www.cbinsights.com/company/color-genomics,$ 4.6,1/4/2021,2021,Burlingame,United States,Health
+Pleo,https://www.cbinsights.com/company/pleo,$ 4.7,7/6/2021,2021,Copenhagen,Denmark,Fintech
+BetterUp,https://www.cbinsights.com/company/betterup,$ 4.7,2/25/2021,2021,San Francisco,United States,Internet software & services
+Chipone,https://www.cbinsights.com/company/chipone,$ 4.73,12/16/2021,2021,Beijing,China,Hardware
+Reify Health,https://www.cbinsights.com/company/reify-health,$ 4.8,8/10/2021,2021,Boston,United States,Health
+Cerebral,https://www.cbinsights.com/company/cerebral,$ 4.8,6/10/2021,2021,San Francisco,United States,Health
+Meesho,https://www.cbinsights.com/company/meesho,$ 4.9,4/5/2021,2021,Bengaluru,India,Internet software & services
+Coalition,https://www.cbinsights.com/company/coalition,$ 5.0,3/17/2021,2021,San Francisco,United States,Cybersecurity
+ShareChat,https://www.cbinsights.com/company/sharechat,$ 5.0,4/8/2021,2021,Bengaluru,India,Internet software & services
+Hopper,https://www.cbinsights.com/company/hopper,$ 5.0,3/24/2021,2021,Montreal,Canada,Travel
+Cockroach Labs,https://www.cbinsights.com/company/cockroach-labs,$ 5.0,1/12/2021,2021,New York,United States,Data management & analytics
+OfBusiness,https://www.cbinsights.com/company/ofbusiness,$ 5.0,7/31/2021,2021,Gurgaon,India,E-commerce & direct-to-consumer
+ZEPZ,https://www.cbinsights.com/company/worldremit,$ 5.0,8/23/2021,2021,London,United Kingdom,Fintech
+SambaNova Systems,https://www.cbinsights.com/company/sambanova-systems,$ 5.0,4/13/2021,2021,Palo Alto,United States,Data management & analytics
+Mambu,https://www.cbinsights.com/company/mambu,$ 5.5,1/6/2021,2021,Amsterdam,Netherlands,Fintech
+Trade Republic,https://www.cbinsights.com/company/trade-republic-bank,$ 5.36,5/20/2021,2021,Berlin,Germany,Fintech
+ContentSquare,https://www.cbinsights.com/company/contentsquare,$ 5.6,5/25/2021,2021,Paris,France,Internet software & services
+Back Market,https://www.cbinsights.com/company/back-market,$ 5.7,5/18/2021,2021,Paris,France,E-commerce & direct-to-consumer
+Workato,https://www.cbinsights.com/company/workato,$ 5.7,1/12/2021,2021,Mountain View,United States,Internet software & services
+6Sense,https://www.cbinsights.com/company/6sense-insights,$ 5.2,3/30/2021,2021,San Francisco,United States,Artificial intelligence
+iCapital Network,https://www.cbinsights.com/company/icapital-network,$ 6.0,7/27/2021,2021,New York,United States,Fintech
+Wiz,https://www.cbinsights.com/company/wiz,$ 6.0,3/17/2021,2021,Tel Aviv,Israel,Cybersecurity
+Benchling,https://www.cbinsights.com/company/benchling,$ 6.1,4/14/2021,2021,San Francisco,United States,Internet software & services
+Black Unicorn Factory,https://www.cbinsights.com/company/black-unicorn-factory,$ 6.1,5/20/2021,2021,Los Angeles,United States,Other
+Hinge Health,https://www.cbinsights.com/company/hinge-health,$ 6.2,1/6/2021,2021,San Francisco,United States,Health
+1Password,https://www.cbinsights.com/company/agilebits-inc,$ 6.8,7/8/2021,2021,Toronto,Canada,Cybersecurity
+ConsenSys,https://www.cbinsights.com/company/consensys,$ 7.0,11/17/2021,2021,New York,United States,Fintech
+Gemini,https://www.cbinsights.com/company/gemini-exchange,$ 7.1,11/19/2021,2021,New York,United States,Fintech
+Dapper Labs,https://www.cbinsights.com/company/cryptokitties,$ 7.6,3/30/2021,2021,Vancouver,Canada,Internet software & services
+Caris Life Sciences,https://www.cbinsights.com/company/caris-diagnostics,$ 7.83,5/12/2021,2021,Irving,United States,Health
+FalconX,https://www.cbinsights.com/company/falconx,$ 8.0,8/10/2021,2021,San Mateo,United States,Fintech
+Fireblocks,https://www.cbinsights.com/company/fireblocks,$ 8.0,7/27/2021,2021,New York,United States,Fintech
+Ramp,https://www.cbinsights.com/company/ramp-financial,$ 8.1,3/29/2021,2021,New York,United States,Fintech
+Lacework,https://www.cbinsights.com/company/lacework,$ 8.3,1/7/2021,2021,San Jose,United States,Cybersecurity
+Personio,https://www.cbinsights.com/company/personio,$ 8.5,1/19/2021,2021,Munich,Germany,Internet software & services
+Digital Currency Group,https://www.cbinsights.com/company/digital-currency-group,$ 10.0,11/1/2021,2021,New York,United States,Fintech
+Weilong,https://www.cbinsights.com/company/weilong,$ 10.88,5/8/2021,2021,Luohe,China,Consumer & retail
+Alchemy,https://www.cbinsights.com/company/alchemy-2,$ 10.2,10/28/2021,2021,San Francisco,United States,Fintech
+Bolt,https://www.cbinsights.com/company/boltcom,$ 11.0,10/8/2021,2021,San Francisco,United States,Fintech
+ZongMu Technology,https://www.cbinsights.com/company/zongmu-technology,$ 11.4,6/3/2021,2021,Shanghai,China,Auto & transportation
+Getir,https://www.cbinsights.com/company/getir,$ 11.8,3/26/2021,2021,Istanbul,Turkey,"Supply chain, logistics, & delivery"
+Deel,https://www.cbinsights.com/company/deel,$ 12.0,4/21/2021,2021,San Francisco,United States,Fintech
+GoodLeap,https://www.cbinsights.com/company/loanpal,$ 12.0,10/13/2021,2021,Roseville,United States,Internet software & services
+OpenSea,https://www.cbinsights.com/company/opensea,$ 13.3,7/20/2021,2021,New York,United States,Internet software & services
+Blockchain.com,https://www.cbinsights.com/company/blockchain,$ 14.0,2/17/2021,2021,London,United Kingdom,Fintech
+J&T Express,https://www.cbinsights.com/company/jt-express,$ 20.0,4/7/2021,2021,Jakarta,Indonesia,"Supply chain, logistics, & delivery"
+FTX,https://www.cbinsights.com/company/ftx,$ 32.0,7/20/2021,2021,,Bahamas,Fintech
+Boom Supersonic,https://www.cbinsights.com/company/boomaero,$ 1.0,12/16/2020,2020,Englewood,United States,Other
+Gousto,https://www.cbinsights.com/company/gousto,$ 1.7,11/3/2020,2020,London,United Kingdom,"Supply chain, logistics, & delivery"
+Zwift,https://www.cbinsights.com/company/zwift,$ 1.0,9/16/2020,2020,Long Beach,United States,E-commerce & direct-to-consumer
+Infobip,https://www.cbinsights.com/company/infobip,$ 1.0,7/30/2020,2020,Vodnjan,Croatia,Mobile & telecommunications
+Orca Bio,https://www.cbinsights.com/company/orca-bio,$ 1.0,6/17/2020,2020,Menlo Park,United States,Health
+Quizlet,https://www.cbinsights.com/company/quizlet,$ 1.0,5/13/2020,2020,San Francisco,United States,Edtech
+Emerging Markets Property Group,https://www.cbinsights.com/company/emerging-markets-property-group,$ 1.0,4/28/2020,2020,Dubai,United Arab Emirates,Other
+Hotmart,https://www.cbinsights.com/company/hotmart,$ 1.0,3/17/2020,2020,Amsterdam,Netherlands,E-commerce & direct-to-consumer
+Alto Pharmacy,https://www.cbinsights.com/company/alto-pharmacy,$ 1.0,1/30/2020,2020,San Francisco,United States,Health
+Pharmapacks,https://www.cbinsights.com/company/pharmapacks,$ 1.1,11/12/2020,2020,Islandia,United States,E-commerce & direct-to-consumer
+Sisense,https://www.cbinsights.com/company/sisense,$ 1.1,1/9/2020,2020,New York,United States,Data management & analytics
+Venafi,https://www.cbinsights.com/company/venafi,$ 1.15,12/10/2020,2020,Salt Lake City,United States,Cybersecurity
+Qumulo,https://www.cbinsights.com/company/qumulo,$ 1.2,7/16/2020,2020,Seattle,United States,Data management & analytics
+Workhuman,https://www.cbinsights.com/company/globoforce,$ 1.2,6/23/2020,2020,Dublin,Ireland,Internet software & services
+BigID,https://www.cbinsights.com/company/bigid,$ 1.25,12/16/2020,2020,New York,United States,Cybersecurity
+Manner,https://www.cbinsights.com/company/manner,$ 1.3,12/24/2020,2020,Shanghai,China,Other
+Everly Health,https://www.cbinsights.com/company/everlywell,$ 1.3,12/3/2020,2020,Austin,United States,Health
+InSightec,https://www.cbinsights.com/company/insightec,$ 1.3,3/6/2020,2020,Tirat Carmel,Israel,Health
+Alzheon,https://www.cbinsights.com/company/alzheon,$ 1.31,9/30/2020,2020,Framingham,United States,Health
+Kong,https://www.cbinsights.com/company/mashape,$ 1.4,12/31/2020,2020,San Francisco,United States,Internet software & services
+Justworks,https://www.cbinsights.com/company/justworks,$ 1.43,1/28/2020,2020,New York,United States,Internet software & services
+Gymshark,https://www.cbinsights.com/company/gymshark,$ 1.45,8/14/2020,2020,Solihull,United Kingdom,E-commerce & direct-to-consumer
+Zenoti,https://www.cbinsights.com/company/managemyspa,$ 1.5,12/15/2020,2020,Bellevue,United States,Internet software & services
+Strava,https://www.cbinsights.com/company/strava,$ 1.5,11/16/2020,2020,San Francisco,United States,Internet software & services
+GalaxySpace,https://www.cbinsights.com/company/galaxy-space,$ 1.58,11/17/2020,2020,Beijing,China,Mobile & telecommunications
+Everlaw,https://www.cbinsights.com/company/everlaw,$ 2.0,3/10/2020,2020,Oakland,United States,Internet software & services
+Apeel Sciences,https://www.cbinsights.com/company/apeel-technologies,$ 2.0,5/26/2020,2020,Goleta,United States,Other
+ISN,https://www.cbinsights.com/company/isnetworld,$ 2.0,12/17/2020,2020,Dallas,United States,"Supply chain, logistics, & delivery"
+Virta Health,https://www.cbinsights.com/company/virta-health-corp,$ 2.0,12/2/2020,2020,San Francisco,United States,Health
+Unqork,https://www.cbinsights.com/company/unqork,$ 2.0,10/6/2020,2020,New York,United States,Fintech
+Xingyun Group,https://www.cbinsights.com/company/xingyun-b2b,$ 2.0,9/24/2020,2020,Shenzhen,China,E-commerce & direct-to-consumer
+Redis Labs,https://www.cbinsights.com/company/redisdb,$ 2.0,8/25/2020,2020,Mountain View,United States,Data management & analytics
+Keep,https://www.cbinsights.com/company/keep,$ 2.0,5/19/2020,2020,Beijing,China,Internet software & services
+AppsFlyer,https://www.cbinsights.com/company/appsflyer,$ 2.0,1/21/2020,2020,San Francisco,United States,Mobile & telecommunications
+Eightfold.ai,https://www.cbinsights.com/company/eightfoldai,$ 2.1,10/27/2020,2020,Santa Clara,United States,Internet software & services
+FirstCry,https://www.cbinsights.com/company/brainbees-solutions,$ 2.1,2/7/2020,2020,Pune,India,E-commerce & direct-to-consumer
+Qualia,https://www.cbinsights.com/company/qualia-labs,$ 2.17,12/21/2020,2020,San Francisco,United States,Fintech
+Hesai Tech,https://www.cbinsights.com/company/hesai-tech,$ 2.18,8/1/2020,2020,Shanghai,China,Artificial intelligence
+Dialpad,https://www.cbinsights.com/company/firespotter-labs,$ 2.2,10/6/2020,2020,San Francisco,United States,Internet software & services
+Greenlight,https://www.cbinsights.com/company/greenlight1,$ 2.3,9/24/2020,2020,Atlanta,United States,Fintech
+Voodoo,https://www.cbinsights.com/company/voodoo,$ 2.31,8/17/2020,2020,Paris,France,Other
+Biren Technology,https://www.cbinsights.com/company/biren-techonology,$ 2.32,8/18/2020,2020,Shanghai,China,Hardware
+Freenome,https://www.cbinsights.com/company/freenome,$ 2.62,8/26/2020,2020,South San Francisco,United States,Health
+Trumid,https://www.cbinsights.com/company/trumid-holdings,$ 2.4,7/15/2020,2020,New York,United States,Fintech
+EquipmentShare,https://www.cbinsights.com/company/equipmentshare,$ 2.41,5/1/2020,2020,Columbia,United States,Fintech
+Cato Networks,https://www.cbinsights.com/company/cato-networks,$ 2.5,11/17/2020,2020,Tel Aviv,Israel,Cybersecurity
+o9 Solutions,https://www.cbinsights.com/company/o9-solutions,$ 2.7,4/28/2020,2020,Dallas,United States,Artificial intelligence
+Loft,https://www.cbinsights.com/company/loft,$ 2.9,1/3/2020,2020,Sao Paulo,Brazil,E-commerce & direct-to-consumer
+Via,https://www.cbinsights.com/company/via-transportation,$ 3.3,3/30/2020,2020,New York,United States,Auto & transportation
+Podium,https://www.cbinsights.com/company/repdrive,$ 3.0,4/7/2020,2020,Lehi,United States,Internet software & services
+Forter,https://www.cbinsights.com/company/forter,$ 3.0,11/19/2020,2020,New York,United States,Cybersecurity
+ApplyBoard,https://www.cbinsights.com/company/applyboard,$ 3.2,5/5/2020,2020,Kitchener,Canada,Edtech
+HighRadius,https://www.cbinsights.com/company/highradius,$ 3.1,1/7/2020,2020,Houston,United States,Fintech
+Verkada,https://www.cbinsights.com/company/verkada,$ 3.2,1/29/2020,2020,San Mateo,United States,Cybersecurity
+Cars24,https://www.cbinsights.com/company/cars24,$ 3.3,11/24/2020,2020,Gurgaon,India,E-commerce & direct-to-consumer
+Komodo Health,https://www.cbinsights.com/company/komodo-health,$ 3.3,5/22/2020,2020,San Francisco,United States,Health
+ECARX,https://www.cbinsights.com/company/ecarx,$ 3.31,10/26/2020,2020,Wuhan,China,Auto & transportation
+Unacademy,https://www.cbinsights.com/company/unacademy,$ 3.44,9/2/2020,2020,Bengaluru,India,Edtech
+Tekion,https://www.cbinsights.com/company/tekio,$ 3.5,10/21/2020,2020,San Ramon,United States,Internet software & services
+Mirakl,https://www.cbinsights.com/company/mirakl,$ 3.5,9/22/2020,2020,Paris,France,E-commerce & direct-to-consumer
+HyalRoute,https://www.cbinsights.com/company/hyalroute,$ 3.5,5/26/2020,2020,,Singapore,Mobile & telecommunications
+Course Hero,https://www.cbinsights.com/company/course-hero,$ 3.6,2/12/2020,2020,Redwood City,United States,Edtech
+Applied Intuition,https://www.cbinsights.com/company/applied-intuition,$ 3.6,10/22/2020,2020,Sunnyvale,United States,Auto & transportation
+Whoop,https://www.cbinsights.com/company/bobo-analytics,$ 3.6,10/28/2020,2020,Boston,United States,E-commerce & direct-to-consumer
+GOAT,https://www.cbinsights.com/company/grubwithus,$ 3.7,9/23/2020,2020,Culver City,United States,E-commerce & direct-to-consumer
+VAST Data,https://www.cbinsights.com/company/vast-data,$ 3.7,4/16/2020,2020,New York,United States,Data management & analytics
+MessageBird,https://www.cbinsights.com/company/messagebird,$ 3.8,10/8/2020,2020,Amsterdam,Netherlands,Mobile & telecommunications
+Farmers Business Network,https://www.cbinsights.com/company/farmers-business-network,$ 4.0,8/3/2020,2020,San Carlos,United States,Other
+ClickUp,https://www.cbinsights.com/company/clickup,$ 4.0,12/15/2020,2020,San Diego,United States,Internet software & services
+Olive,https://www.cbinsights.com/company/crosschx,$ 4.0,12/1/2020,2020,Columbus,United States,Health
+Patreon,https://www.cbinsights.com/company/patreon,$ 4.0,9/2/2020,2020,San Francisco,United States,Internet software & services
+Skydance Media,https://www.cbinsights.com/company/skydance-media,$ 4.0,2/11/2020,2020,Santa Monica,United States,Other
+Relativity Space,https://www.cbinsights.com/company/relativity-space,$ 4.2,11/23/2020,2020,Inglewood,United States,Other
+Arctic Wolf Networks,https://www.cbinsights.com/company/arctic-wolf-networks,$ 4.3,10/22/2020,2020,Eden Prairie,United States,Cybersecurity
+WeRide,https://www.cbinsights.com/company/jingchi,$ 4.4,12/23/2020,2020,Guangzhou,China,Auto & transportation
+Lyra Health,https://www.cbinsights.com/company/lyra-health,$ 5.85,8/25/2020,2020,Burlingame,United States,Health
+Creditas,https://www.cbinsights.com/company/bankfacil,$ 4.8,12/18/2020,2020,Sao Paulo,Brazil,Fintech
+VerSe Innovation(Dailyhunt),https://www.cbinsights.com/company/eterno-infotech-pvt-ltd,$ 5.0,12/22/2020,2020,Bengaluru,India,Internet software & services
+Pine Labs,https://www.cbinsights.com/company/pine-labs,$ 5.0,1/24/2020,2020,Noida,India,Fintech
+Moon Active,https://www.cbinsights.com/company/moon-active-1,$ 5.0,1/26/2020,2020,Tel Aviv,Israel,Mobile & telecommunications
+Howden Group Holdings,https://www.cbinsights.com/company/hyperion-insurance-group,$ 5.0,9/29/2020,2020,London,United Kingdom,Other
+C6 Bank,https://www.cbinsights.com/company/c6-bank,$ 5.05,12/2/2020,2020,Sao Paulo,Brazil,Fintech
+FiveTran,https://www.cbinsights.com/company/fivetran,$ 5.6,6/30/2020,2020,Oakland,United States,Data management & analytics
+Postman,https://www.cbinsights.com/company/postman,$ 5.6,6/11/2020,2020,San Francisco,United States,Internet software & services
+Cityblock Health,https://www.cbinsights.com/company/cityblock-health,$ 5.7,12/10/2020,2020,Brooklyn,United States,Health
+Attentive,https://www.cbinsights.com/company/attentive-mobile,$ 5.99,9/23/2020,2020,Hoboken,United States,Mobile & telecommunications
+Better.com,https://www.cbinsights.com/company/better,$ 6.0,11/10/2020,2020,New York,United States,Fintech
+Mollie,https://www.cbinsights.com/company/mollie,$ 6.5,9/8/2020,2020,Amsterdam,Netherlands,Fintech
+National Stock Exchange of India,https://www.cbinsights.com/company/national-stock-exchange-of-india,$ 6.5,7/1/2020,2020,Mumbai,India,Fintech
+SVOLT,https://www.cbinsights.com/company/svolt,$ 6.51,6/8/2020,2020,Changzhou,China,Auto & transportation
+Ro,https://www.cbinsights.com/company/roman-health-ventures,$ 7.0,7/27/2020,2020,New York,United States,Health
+Gong,https://www.cbinsights.com/company/gong,$ 7.25,8/12/2020,2020,Palo Alto,United States,Artificial intelligence
+Razorpay,https://www.cbinsights.com/company/razorpay-software,$ 7.5,10/11/2020,2020,Bengaluru,India,Fintech
+Hopin,https://www.cbinsights.com/company/hopin,$ 7.75,11/10/2020,2020,London,United Kingdom,Internet software & services
+Tipalti,https://www.cbinsights.com/company/tipalti,$ 8.3,10/6/2020,2020,San Mateo,United States,Fintech
+Chainalysis,https://www.cbinsights.com/company/chainalysis,$ 8.6,11/23/2020,2020,New York,United States,Fintech
+Snyk,https://www.cbinsights.com/company/snyk,$ 8.6,1/21/2020,2020,Boston,United States,Cybersecurity
+Kavak,https://www.cbinsights.com/company/kavak,$ 8.7,10/1/2020,2020,Lerma de Villada,Mexico,E-commerce & direct-to-consumer
+Klaviyo,https://www.cbinsights.com/company/klaviyo,$ 9.2,11/17/2020,2020,Boston,United States,Internet software & services
+Thrasio,https://www.cbinsights.com/company/thrasio,$ 10.0,7/15/2020,2020,Walpole,United States,E-commerce & direct-to-consumer
+Notion Labs,https://www.cbinsights.com/company/notion-labs,$ 10.0,4/1/2020,2020,San Francisco,United States,Internet software & services
+Rippling,https://www.cbinsights.com/company/rippling,$ 11.25,8/4/2020,2020,San Francisco,United States,Internet software & services
+Xingsheng Selected,https://www.cbinsights.com/company/xingsheng-youxuan,$ 12.0,7/22/2020,2020,Changsha,China,E-commerce & direct-to-consumer
+Yuanqi Senlin,https://www.cbinsights.com/company/yuanqi-senlin,$ 15.0,3/1/2020,2020,Beijing,China,Consumer & retail
+goPuff,https://www.cbinsights.com/company/gopuff,$ 15.0,10/8/2020,2020,Philadelphia,United States,"Supply chain, logistics, & delivery"
+KK Group,https://www.cbinsights.com/company/kkguancom,$ 3.0,10/23/2019,2019,Dongguan,China,E-commerce & direct-to-consumer
+EBANX,https://www.cbinsights.com/company/ebanx,$ 1.0,10/16/2019,2019,Curitiba,Brazil,Fintech
+Numbrs,https://www.cbinsights.com/company/numbrs,$ 1.0,8/22/2019,2019,Zurich,Switzerland,Fintech
+C2FO,https://www.cbinsights.com/company/c2fo,$ 1.0,8/7/2019,2019,Leawood,United States,Fintech
+Ibotta,https://www.cbinsights.com/company/ibotta,$ 1.0,8/6/2019,2019,Denver,United States,Fintech
+Meero,https://www.cbinsights.com/company/meero,$ 1.0,6/18/2019,2019,Paris,France,Artificial intelligence
+Yanolja,https://www.cbinsights.com/company/yanolja,$ 1.0,6/10/2019,2019,Seoul,South Korea,Travel
+KnowBox,https://www.cbinsights.com/company/knowbox,$ 1.0,5/30/2019,2019,Beijing,China,Edtech
+SITECH DEV,https://www.cbinsights.com/company/sitech-dev,$ 1.0,5/16/2019,2019,Guiyang,China,Other
+VTS,https://www.cbinsights.com/company/view-the-space,$ 1.0,5/7/2019,2019,New York,United States,Internet software & services
+Poizon,https://www.cbinsights.com/company/du,$ 1.0,4/29/2019,2019,Shanghai,China,Mobile & telecommunications
+Intellifusion,https://www.cbinsights.com/company/yuntian-lifei-technology,$ 1.0,3/22/2019,2019,Shenzhen,China,Artificial intelligence
+Globality,https://www.cbinsights.com/company/globality,$ 1.0,1/22/2019,2019,Menlo Park,United States,Artificial intelligence
+Aprogen,https://www.cbinsights.com/company/aprogen,$ 1.04,5/31/2019,2019,Seongnam-Si,South Korea,Health
+Instabase,https://www.cbinsights.com/company/instabase,$ 1.05,10/21/2019,2019,San Francisco,United States,Data management & analytics
+Rivigo,https://www.cbinsights.com/company/rivigo,$ 1.07,7/11/2019,2019,Gurgaon,India,"Supply chain, logistics, & delivery"
+Ivalua,https://www.cbinsights.com/company/ivalua,$ 1.1,5/21/2019,2019,Redwood City,United States,Fintech
+GetYourGuide,https://www.cbinsights.com/company/getyourguide,$ 1.1,5/16/2019,2019,Berlin,Germany,Travel
+TELD,https://www.cbinsights.com/company/teld,$ 1.12,12/16/2019,2019,Qingdao,China,Fintech
+Yimidida,https://www.cbinsights.com/company/yimidida,$ 1.17,1/14/2019,2019,Shanghai,China,"Supply chain, logistics, & delivery"
+Mininglamp Technology,https://www.cbinsights.com/company/mininglamp,$ 1.19,3/27/2019,2019,Beijing,China,Artificial intelligence
+Glossier,https://www.cbinsights.com/company/into-the-gloss,$ 1.65,3/19/2019,2019,New York,United States,Consumer & retail
+OVO Energy,https://www.cbinsights.com/company/ovo-energy,$ 1.28,2/14/2019,2019,Bristol,United Kingdom,Other
+The Brandtech Group,https://www.cbinsights.com/company/you-mr-jones,$ 1.3,11/19/2019,2019,New York,United States,Other
+Tongdun Technology,https://www.cbinsights.com/company/tongdun-technology,$ 1.32,4/25/2019,2019,Hangzhou,China,Cybersecurity
+Away,https://www.cbinsights.com/company/away,$ 1.4,5/15/2019,2019,New York,United States,E-commerce & direct-to-consumer
+Ouyeel,https://www.cbinsights.com/company/ouyeel,$ 1.45,6/27/2019,2019,Shanghai,China,Internet software & services
+Bordrin Motors,https://www.cbinsights.com/company/bordrin-motors,$ 1.48,6/3/2019,2019,Shanghai,China,Auto & transportation
+Yipin Shengxian,https://www.cbinsights.com/company/yipin-shengxian,$ 1.49,3/11/2019,2019,Hefei,China,E-commerce & direct-to-consumer
+Collective Health,https://www.cbinsights.com/company/collective-health,$ 1.5,6/17/2019,2019,San Francisco,United States,Fintech
+Carzone,https://www.cbinsights.com/company/carzone,$ 1.52,3/1/2019,2019,Jiangsu,China,E-commerce & direct-to-consumer
+Baiwang,https://www.cbinsights.com/company/baiwang,$ 1.55,3/25/2019,2019,Beijing,China,Fintech
+ezCater,https://www.cbinsights.com/company/ezcater,$ 1.6,4/2/2019,2019,Boston,United States,"Supply chain, logistics, & delivery"
+Lightricks,https://www.cbinsights.com/company/lightricks-ltd,$ 1.8,7/31/2019,2019,Jerusalem,Israel,Artificial intelligence
+ENOVATE,https://www.cbinsights.com/company/dearcc,$ 1.85,4/15/2019,2019,Shanghai,China,Auto & transportation
+eDaili,https://www.cbinsights.com/company/edaili,$ 1.9,2/1/2019,2019,Shanghai,China,E-commerce & direct-to-consumer
+Trax,https://www.cbinsights.com/company/trax-technology-solutions,$ 2.0,7/22/2019,2019,,Singapore,Artificial intelligence
+OCSiAl,https://www.cbinsights.com/company/ocsial,$ 2.0,3/4/2019,2019,Leudelange,Luxembourg,Other
+Loggi,https://www.cbinsights.com/company/loggi,$ 2.0,6/5/2019,2019,Sao Paulo,Brazil,"Supply chain, logistics, & delivery"
+Kujiale,https://www.cbinsights.com/company/kujiale,$ 2.0,10/25/2019,2019,Hangzhou,China,Internet software & services
+Druva,https://www.cbinsights.com/company/druva,$ 2.0,6/20/2019,2019,Sunnyvale,United States,Data management & analytics
+Mafengwo,https://www.cbinsights.com/company/mafengwocn,$ 2.0,5/23/2019,2019,Beijing,China,Travel
+Kaseya,https://www.cbinsights.com/company/kaseya,$ 2.0,3/27/2019,2019,Miami,United States,Cybersecurity
+Calm,https://www.cbinsights.com/company/calmcom,$ 2.0,2/6/2019,2019,San Francisco,United States,Internet software & services
+Huaqin Telecom Technology,https://www.cbinsights.com/company/huaqin-telecom-technology,$ 2.19,10/8/2019,2019,Shanghai,China,Mobile & telecommunications
+Gympass,https://www.cbinsights.com/company/gympass,$ 2.2,6/12/2019,2019,New York,United States,Internet software & services
+MUSINSA,https://www.cbinsights.com/company/musinsa,$ 2.2,11/11/2019,2019,Seoul,South Korea,E-commerce & direct-to-consumer
+Motive,https://www.cbinsights.com/company/keeptruckin,$ 2.85,4/23/2019,2019,San Francisco,United States,"Supply chain, logistics, & delivery"
+PolicyBazaar,https://www.cbinsights.com/company/policybazaar,$ 2.4,5/6/2019,2019,Gurgaon,India,Fintech
+Cybereason,https://www.cbinsights.com/company/cybereason,$ 2.44,8/6/2019,2019,Boston,United States,Cybersecurity
+Pendo,https://www.cbinsights.com/company/pendoio,$ 2.6,10/17/2019,2019,Raleigh,United States,Internet software & services
+Zipline,https://www.cbinsights.com/company/romotive,$ 2.8,5/20/2019,2019,South San Francisco,United States,"Supply chain, logistics, & delivery"
+Workrise,https://www.cbinsights.com/company/rigup,$ 2.9,9/30/2019,2019,Austin,United States,Internet software & services
+OpenAI,https://www.cbinsights.com/company/openai,$ 2.92,7/22/2019,2019,San Francisco,United States,Artificial intelligence
+Kraken,https://www.cbinsights.com/company/payward,$ 2.92,6/25/2019,2019,San Francisco,United States,Fintech
+CMR Surgical,https://www.cbinsights.com/company/cambridge-medical-robotics,$ 3.0,9/17/2019,2019,Cambridge,United Kingdom,Health
+Wildlife Studios,https://www.cbinsights.com/company/wildlife-studios,$ 3.0,12/5/2019,2019,Sao Paulo,Brazil,Other
+FlixMobility,https://www.cbinsights.com/company/fixbus,$ 3.0,7/18/2019,2019,Munich,Germany,Auto & transportation
+Scopely,https://www.cbinsights.com/company/scopely,$ 3.3,10/29/2019,2019,Culver City,United States,Mobile & telecommunications
+Sila Nanotechnologies,https://www.cbinsights.com/company/sila-nanotechnologies,$ 3.3,4/16/2019,2019,Alameda,United States,Other
+Acronis,https://www.cbinsights.com/company/acronis,$ 3.5,9/18/2019,2019,Schaffhausen,Switzerland,Cybersecurity
+StockX,https://www.cbinsights.com/company/stockx,$ 3.8,6/26/2019,2019,Detroit,United States,E-commerce & direct-to-consumer
+Next Insurance,https://www.cbinsights.com/company/next-insurance,$ 4.0,10/7/2019,2019,Palo Alto,United States,Fintech
+Impossible Foods,https://www.cbinsights.com/company/impossible-foods,$ 4.0,5/13/2019,2019,Redwood City,United States,Consumer & retail
+Miaoshou Doctor,https://www.cbinsights.com/company/miaoshou-doctor,$ 4.25,6/27/2019,2019,Beijing,China,E-commerce & direct-to-consumer
+Guild Education,https://www.cbinsights.com/company/guild-education,$ 4.4,11/13/2019,2019,Denver,United States,Internet software & services
+Outreach,https://www.cbinsights.com/company/componentlab,$ 4.4,4/16/2019,2019,Seattle,United States,Internet software & services
+Lenskart,https://www.cbinsights.com/company/valyoo-technologies,$ 4.5,12/20/2019,2019,Faridabad,India,E-commerce & direct-to-consumer
+wefox,https://www.cbinsights.com/company/financefox,$ 4.5,3/5/2019,2019,Berlin,Germany,Fintech
+Vinted,https://www.cbinsights.com/company/vinted,$ 4.53,11/27/2019,2019,Vilnius,Lithuania,E-commerce & direct-to-consumer
+Checkr,https://www.cbinsights.com/company/checkr,$ 4.6,9/19/2019,2019,San Francisco,United States,Internet software & services
+Dataiku,https://www.cbinsights.com/company/dataiku,$ 4.6,12/4/2019,2019,New York,United States,Artificial intelligence
+Anduril,https://www.cbinsights.com/company/anduril,$ 4.6,9/11/2019,2019,Irvine,United States,Artificial intelligence
+Icertis,https://www.cbinsights.com/company/icertis,$ 5.0,7/17/2019,2019,Bellevue,United States,Artificial intelligence
+Ola Electric Mobility,https://www.cbinsights.com/company/ola-electric-mobility,$ 5.0,7/2/2019,2019,Bengaluru,India,Auto & transportation
+WM Motor,https://www.cbinsights.com/company/wm-motor,$ 5.0,3/8/2019,2019,Shanghai,China,Auto & transportation
+Horizon Robotics,https://www.cbinsights.com/company/horizon-robotics,$ 5.0,2/27/2019,2019,Beijing,China,Artificial intelligence
+Airwallex,https://www.cbinsights.com/company/airwallex,$ 5.5,3/25/2019,2019,Melbourne,Australia,Fintech
+QuintoAndar,https://www.cbinsights.com/company/quintoandar,$ 5.1,9/9/2019,2019,Campinas,Brazil,E-commerce & direct-to-consumer
+OneTrust,https://www.cbinsights.com/company/onetrust,$ 5.1,7/11/2019,2019,Atlanta,United States,Internet software & services
+Collibra,https://www.cbinsights.com/company/collibra,$ 5.25,1/29/2019,2019,Brussels,Belgium,Data management & analytics
+DataRobot,https://www.cbinsights.com/company/datarobot,$ 6.3,7/29/2019,2019,Boston,United States,Artificial intelligence
+Doctolib,https://www.cbinsights.com/company/doctolib,$ 6.4,3/19/2019,2019,Paris,France,Health
+Argo AI,https://www.cbinsights.com/company/argo-ai,$ 7.25,7/12/2019,2019,Pittsburgh,United States,Auto & transportation
+Scale AI,https://www.cbinsights.com/company/scale,$ 7.3,8/5/2019,2019,San Francisco,United States,Artificial intelligence
+Carta,https://www.cbinsights.com/company/eshares,$ 7.4,5/6/2019,2019,San Francisco,United States,Fintech
+Dream11,https://www.cbinsights.com/company/dream11,$ 8.0,4/9/2019,2019,Mumbai,India,Internet software & services
+SumUp,https://www.cbinsights.com/company/sumup,$ 8.5,7/16/2019,2019,London,United Kingdom,Fintech
+Nuro,https://www.cbinsights.com/company/nuro-ai,$ 8.6,2/11/2019,2019,Mountain View,United States,Auto & transportation
+Rapyd,https://www.cbinsights.com/company/rapyd,$ 8.75,12/3/2019,2019,London,United Kingdom,Fintech
+Northvolt,https://www.cbinsights.com/company/northvolt,$ 9.08,6/12/2019,2019,Stockholm,Sweden,Other
+N26,https://www.cbinsights.com/company/number26,$ 9.23,1/10/2019,2019,Berlin,Germany,Fintech
+HEYTEA,https://www.cbinsights.com/company/heytea,$ 9.28,7/1/2019,2019,Shenzhen,China,Other
+Lalamove,https://www.cbinsights.com/company/easyvan-hong-kong-limited,$ 10.0,2/21/2019,2019,Cheung Sha Wan,Hong Kong,"Supply chain, logistics, & delivery"
+Faire,https://www.cbinsights.com/company/faire-1,$ 12.59,10/30/2019,2019,San Francisco,United States,Artificial intelligence
+Grammarly,https://www.cbinsights.com/company/grammarly,$ 13.0,10/10/2019,2019,San Francisco,United States,Internet software & services
+Ripple,https://www.cbinsights.com/company/ripple-labs,$ 15.0,12/20/2019,2019,San Francisco,United States,Fintech
+Chime,https://www.cbinsights.com/company/chimecard,$ 25.0,3/5/2019,2019,San Francisco,United States,Fintech
+Databricks,https://www.cbinsights.com/company/databricks,$ 38.0,2/5/2019,2019,San Francisco,United States,Data management & analytics
+Checkout.com,https://www.cbinsights.com/company/checkoutcom,$ 40.0,5/2/2019,2019,London,United Kingdom,Fintech
+REEF Technology,https://www.cbinsights.com/company/parkjockey,$ 1.0,12/10/2018,2018,Miami,United States,"Supply chain, logistics, & delivery"
+BitFury,https://www.cbinsights.com/company/bitfury-group,$ 1.0,11/6/2018,2018,Amsterdam,Netherlands,Hardware
+TERMINUS Technology,https://www.cbinsights.com/company/terminus-technologies,$ 1.0,10/25/2018,2018,Beijing,China,Hardware
+Omio,https://www.cbinsights.com/company/goeuro,$ 1.0,10/23/2018,2018,Berlin,Germany,Travel
+Hosjoy,https://www.cbinsights.com/company/hosjoy,$ 1.0,10/18/2018,2018,Nanjing,China,E-commerce & direct-to-consumer
+Momenta,https://www.cbinsights.com/company/momenta,$ 1.0,10/17/2018,2018,Beijing,China,Artificial intelligence
+Tresata,https://www.cbinsights.com/company/tresata,$ 1.0,10/10/2018,2018,Charlotte,United States,Fintech
+Banma Network Technologies,https://www.cbinsights.com/company/banma-zhixing,$ 1.0,9/13/2018,2018,Shanghai,China,Auto & transportation
+FlashEx,https://www.cbinsights.com/company/shansong-express,$ 1.0,8/27/2018,2018,Beijing,China,"Supply chain, logistics, & delivery"
+Wacai,https://www.cbinsights.com/company/wacai,$ 1.0,7/18/2018,2018,Hangzhou,China,Mobile & telecommunications
+Pat McGrath Labs,https://www.cbinsights.com/company/pat-mcgrath-labs,$ 1.0,7/16/2018,2018,New York,United States,Consumer & retail
+Movile,https://www.cbinsights.com/company/movile,$ 1.0,7/12/2018,2018,Sao Paulo,Brazil,Mobile & telecommunications
+MediaMath,https://www.cbinsights.com/company/mediamath,$ 1.0,7/10/2018,2018,New York,United States,Internet software & services
+LinkDoc Technology,https://www.cbinsights.com/company/linkdoc-technology,$ 1.0,7/5/2018,2018,Beijing,China,Health
+China Cloud,https://www.cbinsights.com/company/china-cloud-technology-service,$ 1.0,6/11/2018,2018,Wuxi,China,Hardware
+Huike Group,https://www.cbinsights.com/company/uniquedu,$ 1.0,5/24/2018,2018,Beijing,China,Edtech
+HMD Global,https://www.cbinsights.com/company/hmd-global,$ 1.0,5/21/2018,2018,Espoo,Finland,Mobile & telecommunications
+Dxy.cn,https://www.cbinsights.com/company/dxy,$ 1.0,4/10/2018,2018,Hangzhou,China,Health
+Leap Motor,https://www.cbinsights.com/company/leap-motor,$ 1.01,11/20/2018,2018,Hangzhou,China,Auto & transportation
+OrCam Technologies,https://www.cbinsights.com/company/orcam-technologies,$ 1.03,2/20/2018,2018,Jerusalem,Israel,Artificial intelligence
+Nxin,https://www.cbinsights.com/company/nxin,$ 1.08,9/18/2018,2018,Beijing,China,Internet software & services
+Tuhu,https://www.cbinsights.com/company/lantu-information-technology,$ 1.16,9/15/2018,2018,Shanghai,China,Auto & transportation
+Fair,https://www.cbinsights.com/company/faircom,$ 1.2,12/20/2018,2018,Santa Monica,United States,Auto & transportation
+WTOIP,https://www.cbinsights.com/company/wtoip,$ 1.27,4/8/2018,2018,Guangzhou,China,Internet software & services
+Intercom,https://www.cbinsights.com/company/intercom,$ 1.28,3/27/2018,2018,San Francisco,United States,Internet software & services
+Unisound,https://www.cbinsights.com/company/unisound,$ 1.31,7/19/2018,2018,Beijing,China,Artificial intelligence
+GPclub,https://www.cbinsights.com/company/gpclub,$ 1.32,10/22/2018,2018,Seoul,South Korea,Other
+Klook,https://www.cbinsights.com/company/klook,$ 1.35,8/7/2018,2018,Central,Hong Kong,Travel
+DeepBlue Technology,https://www.cbinsights.com/company/quixmart,$ 1.35,4/16/2018,2018,Shanghai,China,Artificial intelligence
+Hive Box,https://www.cbinsights.com/company/hive-box,$ 1.4,1/23/2018,2018,Shenzhen,China,"Supply chain, logistics, & delivery"
+Cabify,https://www.cbinsights.com/company/cabify,$ 1.4,1/22/2018,2018,Madrid,Spain,Auto & transportation
+Juma Peisong,https://www.cbinsights.com/company/juma-peisong,$ 1.45,11/26/2018,2018,Chengdu,China,"Supply chain, logistics, & delivery"
+Coocaa,https://www.cbinsights.com/company/coocaa,$ 1.45,3/16/2018,2018,Shenzhen,China,Hardware
+Cambridge Mobile Telematics,https://www.cbinsights.com/company/cambridge-mobile-telematics,$ 1.5,12/19/2018,2018,Cambridge,United States,Auto & transportation
+Yijiupi,https://www.cbinsights.com/company/yi-jiu-pi,$ 1.5,9/20/2018,2018,Beijing,China,Consumer & retail
+JOLLY Information Technology,https://www.cbinsights.com/company/jolly-information-technology,$ 1.5,5/29/2018,2018,Hangzhou,China,E-commerce & direct-to-consumer
+Cao Cao Mobility,https://www.cbinsights.com/company/caocao,$ 1.6,1/17/2018,2018,Hangzhou,China,Auto & transportation
+Jusfoun Big Data,https://www.cbinsights.com/company/jusfoun-big-data,$ 1.62,7/9/2018,2018,Beijing,China,Data management & analytics
+PAX,https://www.cbinsights.com/company/ploom,$ 1.7,10/22/2018,2018,San Francisco,United States,Consumer & retail
+Harry's,https://www.cbinsights.com/company/harrys-razor-company,$ 1.7,2/16/2018,2018,New York,United States,Consumer & retail
+AIWAYS,https://www.cbinsights.com/company/aiways,$ 1.78,4/16/2018,2018,Shanghai,China,Auto & transportation
+Geek+,https://www.cbinsights.com/company/geek-,$ 2.0,11/21/2018,2018,Beijing,China,Hardware
+4Paradigm,https://www.cbinsights.com/company/4paradigm,$ 2.0,12/19/2018,2018,Beijing,China,Artificial intelligence
+Formlabs,https://www.cbinsights.com/company/formlabs,$ 2.0,8/1/2018,2018,Somerville,United States,Hardware
+YITU Technology,https://www.cbinsights.com/company/yitu-technology,$ 2.17,3/8/2018,2018,Shanghai,China,Artificial intelligence
+NuCom Group,https://www.cbinsights.com/company/nucom-grou,$ 2.2,2/22/2018,2018,Unterfoehring,Germany,Other
+Zume,https://www.cbinsights.com/company/zume-pizza,$ 2.25,11/1/2018,2018,Mountain View,United States,Consumer & retail
+BYTON,https://www.cbinsights.com/company/future-mobility,$ 2.5,4/20/2018,2018,Nanjing,China,Auto & transportation
+Xinchao Media,https://www.cbinsights.com/company/xinchao-media,$ 2.0,4/9/2018,2018,Chengdu,China,Internet software & services
+Tradeshift,https://www.cbinsights.com/company/tradeshift,$ 2.7,5/30/2018,2018,San Francisco,United States,Fintech
+Graphcore,https://www.cbinsights.com/company/graphcore,$ 2.77,12/18/2018,2018,Bristol,United Kingdom,Artificial intelligence
+Seismic,https://www.cbinsights.com/company/seismic-software,$ 3.0,12/18/2018,2018,San Diego,United States,Internet software & services
+Zuoyebang,https://www.cbinsights.com/company/zuoyebang,$ 3.0,7/18/2018,2018,Beijing,China,Edtech
+Circle,https://www.cbinsights.com/company/circle-internet-financial,$ 3.0,5/15/2018,2018,Boston,United States,Fintech
+Udaan,https://www.cbinsights.com/company/udaan,$ 3.1,9/4/2018,2018,Bengaluru,India,"Supply chain, logistics, & delivery"
+Youxia Motors,https://www.cbinsights.com/company/youxia,$ 3.35,4/2/2018,2018,Shanghai,China,Auto & transportation
+Cohesity,https://www.cbinsights.com/company/cohesity,$ 3.7,6/11/2018,2018,San Jose,United States,Data management & analytics
+Convoy,https://www.cbinsights.com/company/convoy,$ 3.8,9/21/2018,2018,Seattle,United States,"Supply chain, logistics, & delivery"
+Medlinker,https://www.cbinsights.com/company/medlinker,$ 3.92,7/31/2018,2018,Chengdu,China,Health
+Branch,https://www.cbinsights.com/company/branch-metrics,$ 4.0,9/10/2018,2018,Redwood City,United States,Mobile & telecommunications
+Cerebras Systems,https://www.cbinsights.com/company/cerebras-systems,$ 4.0,11/14/2018,2018,Los Altos,United States,Hardware
+Radiology Partners,https://www.cbinsights.com/company/radiology-partners,$ 4.0,2/26/2018,2018,El Segundo,United States,Health
+Greensill,https://www.cbinsights.com/company/greensill,$ 4.0,7/16/2018,2018,London,United Kingdom,Fintech
+Dataminr,https://www.cbinsights.com/company/dataminr,$ 4.1,6/4/2018,2018,New York,United States,Artificial intelligence
+ThoughtSpot,https://www.cbinsights.com/company/thoughtspot,$ 4.2,5/8/2018,2018,Sunnyvale,United States,Internet software & services
+Monzo,https://www.cbinsights.com/company/mondo,$ 4.5,10/31/2018,2018,London,United Kingdom,Fintech
+Toss,https://www.cbinsights.com/company/viva-republica-co-ltd,$ 6.38,12/9/2018,2018,Seoul,South Korea,Fintech
+Hello TransTech,https://www.cbinsights.com/company/hellobike,$ 5.0,6/1/2018,2018,Shanghai,China,Auto & transportation
+Rappi,https://www.cbinsights.com/company/rappi,$ 5.25,8/31/2018,2018,Bogota,Colombia,"Supply chain, logistics, & delivery"
+Upgrade,https://www.cbinsights.com/company/upgrade,$ 6.28,2/12/2018,2018,San Francisco,United States,Fintech
+Ziroom,https://www.cbinsights.com/company/ziroom,$ 6.6,1/17/2018,2018,Beijing,China,E-commerce & direct-to-consumer
+Automation Anywhere,https://www.cbinsights.com/company/automation-anywhere,$ 6.8,7/2/2018,2018,San Jose,United States,Artificial intelligence
+Netskope,https://www.cbinsights.com/company/netskope,$ 7.5,11/13/2018,2018,Santa Clara,United States,Cybersecurity
+Flexport,https://www.cbinsights.com/company/flexport,$ 8.0,4/30/2018,2018,San Francisco,United States,"Supply chain, logistics, & delivery"
+Tempus,https://www.cbinsights.com/company/tempus,$ 8.1,3/21/2018,2018,Chicago,United States,Health
+Bolt,https://www.cbinsights.com/company/taxify,$ 8.4,5/29/2018,2018,Tallinn,Estonia,Auto & transportation
+Pony.ai,https://www.cbinsights.com/company/ponyai,$ 8.5,7/11/2018,2018,Fremont,United States,Artificial intelligence
+OYO Rooms,https://www.cbinsights.com/company/oravel-stays,$ 9.0,9/25/2018,2018,Gurugram,India,Travel
+TripActions,https://www.cbinsights.com/company/tripactions,$ 9.2,11/8/2018,2018,Palo Alto,United States,Travel
+ServiceTitan,https://www.cbinsights.com/company/servicetitan,$ 9.5,11/14/2018,2018,Glendale,United States,Internet software & services
+OutSystems,https://www.cbinsights.com/company/outsystem,$ 9.5,6/5/2018,2018,Boston,United States,Internet software & services
+Talkdesk,https://www.cbinsights.com/company/talkdesk,$ 10.0,10/3/2018,2018,San Francisco,United States,Internet software & services
+Swiggy,https://www.cbinsights.com/company/swiggy,$ 10.7,6/21/2018,2018,Bengaluru,India,"Supply chain, logistics, & delivery"
+Airtable,https://www.cbinsights.com/company/formagrid,$ 11.7,11/15/2018,2018,San Francisco,United States,Internet software & services
+Biosplice Therapeutics,https://www.cbinsights.com/company/samumed,$ 12.0,8/6/2018,2018,San Diego,United States,Health
+Bitmain Technologies,https://www.cbinsights.com/company/bitmain-technologies,$ 12.0,7/6/2018,2018,Beijing,China,Hardware
+Brex,https://www.cbinsights.com/company/brex,$ 12.3,10/5/2018,2018,San Francisco,United States,Fintech
+Devoted Health,https://www.cbinsights.com/company/devoted-health,$ 12.6,10/16/2018,2018,Waltham,United States,Health
+Celonis,https://www.cbinsights.com/company/celonis1,$ 13.0,6/26/2018,2018,Munich,Germany,Data management & analytics
+Plaid,https://www.cbinsights.com/company/plaid-technologies,$ 13.5,12/11/2018,2018,San Francisco,United States,Fintech
+Discord,https://www.cbinsights.com/company/hammer-chisel,$ 15.0,4/20/2018,2018,San Francisco,United States,Internet software & services
+Epic Games,https://www.cbinsights.com/company/epic-games,$ 31.5,10/26/2018,2018,Cary,United States,Other
+Revolut,https://www.cbinsights.com/company/revolut,$ 33.0,4/26/2018,2018,London,United Kingdom,Fintech
+Canva,https://www.cbinsights.com/company/canva,$ 40.0,1/8/2018,2018,Surry Hills,Australia,Internet software & services
+SHEIN,https://www.cbinsights.com/company/shein,$ 100.0,7/3/2018,2018,Shenzhen,China,E-commerce & direct-to-consumer
+Maimai,https://www.cbinsights.com/company/maimaicn,$ 1.0,11/15/2017,2017,Beijing,China,Mobile & telecommunications
+WeLab,https://www.cbinsights.com/company/welab-limited,$ 1.0,11/8/2017,2017,,Hong Kong,Fintech
+Revolution Precrafted,https://www.cbinsights.com/company/revolution-precrafted,$ 1.0,10/23/2017,2017,Manila,Philippines,Other
+YH Global,https://www.cbinsights.com/company/yh-global,$ 1.0,9/21/2017,2017,Shenzhen,China,"Supply chain, logistics, & delivery"
+Cell C,https://www.cbinsights.com/company/cellc,$ 1.0,8/7/2017,2017,Midrand,South Africa,Mobile & telecommunications
+DianRong,https://www.cbinsights.com/company/dianrong,$ 1.0,8/2/2017,2017,Shanghai,China,E-commerce & direct-to-consumer
+Zhaogang,https://www.cbinsights.com/company/zhaogang,$ 1.0,6/29/2017,2017,Shanghai,China,E-commerce & direct-to-consumer
+Modernizing Medicine,https://www.cbinsights.com/company/modernizing-medicine,$ 1.0,5/10/2017,2017,Boca Raton,United States,Health
+Zhuan Zhuan,https://www.cbinsights.com/company/zhuan-zhuan-app,$ 1.0,4/18/2017,2017,Beijing,China,E-commerce & direct-to-consumer
+Mobvoi,https://www.cbinsights.com/company/mobvoi,$ 1.0,4/6/2017,2017,Beijing,China,Consumer & retail
+Radius Payment Solutions,https://www.cbinsights.com/company/radius-payments-solutions,$ 1.07,11/27/2017,2017,Crewe,United Kingdom,Fintech
+Luoji Siwei,https://www.cbinsights.com/company/logical-thinking,$ 1.18,7/20/2017,2017,Beijing,China,Edtech
+BrewDog,https://www.cbinsights.com/company/brewdog,$ 1.24,4/10/2017,2017,Aberdeen,United Kingdom,Consumer & retail
+Kuaikan Manhua,https://www.cbinsights.com/company/kuaikan-manhua,$ 1.25,12/1/2017,2017,Beijing,China,Internet software & services
+HeartFlow,https://www.cbinsights.com/company/heartflow,$ 1.3,12/4/2017,2017,Redwood City,United States,Health
+Yidian Zixun,https://www.cbinsights.com/company/particle,$ 1.4,10/17/2017,2017,Beijing,China,Mobile & telecommunications
+Symphony,https://www.cbinsights.com/company/symphony-communication-services-holdings,$ 1.4,5/16/2017,2017,New York,United States,Fintech
+DT Dream,https://www.cbinsights.com/company/dt-dream,$ 1.5,6/8/2017,2017,Hangzhou,China,Data management & analytics
+Ximalaya FM,https://www.cbinsights.com/company/tao-zui,$ 1.52,9/22/2017,2017,Shanghai,China,Mobile & telecommunications
+Afiniti,https://www.cbinsights.com/company/afiniti,$ 1.6,4/14/2017,2017,Hamilton,Bermuda,Artificial intelligence
+InVision,https://www.cbinsights.com/company/invisionapp,$ 1.9,11/1/2017,2017,New York,United States,Internet software & services
+Quora,https://www.cbinsights.com/company/quora,$ 2.0,4/21/2017,2017,Mountain View,United States,Internet software & services
+Cgtz,https://www.cbinsights.com/company/cgtz,$ 2.41,2/21/2017,2017,Hangzhou,China,Fintech
+Vista Global,https://www.cbinsights.com/company/vista-global,$ 2.5,8/23/2017,2017,Dubai,United Arab Emirates,Other
+Eat Just,https://www.cbinsights.com/company/hampton-creek-foods,$ 2.59,11/30/2017,2017,San Francisco,United States,Consumer & retail
+BGL Group,https://www.cbinsights.com/company/bgl-group,$ 3.0,11/24/2017,2017,Peterborough,United Kingdom,Fintech
+SouChe Holdings,https://www.cbinsights.com/company/souche-holdings,$ 3.0,11/1/2017,2017,Hangzhou,China,E-commerce & direct-to-consumer
+Traveloka,https://www.cbinsights.com/company/traveloka-indonesia,$ 3.0,1/1/2017,2017,Jakarta,Indonesia,Travel
+Improbable,https://www.cbinsights.com/company/improbable,$ 3.36,5/11/2017,2017,London,United Kingdom,Other
+Indigo Ag,https://www.cbinsights.com/company/symbiota,$ 3.5,9/26/2017,2017,Boston,United States,Artificial intelligence
+Otto Bock HealthCare,https://www.cbinsights.com/company/otto-bock,$ 3.52,6/24/2017,2017,Duderstadt,Germany,Health
+Rubrik,https://www.cbinsights.com/company/rubrik,$ 4.0,4/28/2017,2017,Palo Alto,United States,Data management & analytics
+MEGVII,https://www.cbinsights.com/company/megvii,$ 4.0,10/31/2017,2017,Beijing,China,Artificial intelligence
+OakNorth Bank,https://www.cbinsights.com/company/oaknorth-bank,$ 5.0,10/12/2017,2017,London,United Kingdom,Fintech
+Niantic,https://www.cbinsights.com/company/niantic,$ 9.0,11/24/2017,2017,San Francisco,United States,Mobile & telecommunications
+reddit,https://www.cbinsights.com/company/reddit,$ 10.0,7/31/2017,2017,San Francisco,United States,Internet software & services
+JUUL Labs,https://www.cbinsights.com/company/juul-labs,$ 12.0,12/20/2017,2017,San Francisco,United States,Consumer & retail
+Yuanfudao,https://www.cbinsights.com/company/yuantikucom,$ 15.5,5/31/2017,2017,Beijing,China,Edtech
+BYJU's,https://www.cbinsights.com/company/byjus,$ 22.0,7/25/2017,2017,Bengaluru,India,Edtech
+ByteDance,https://www.cbinsights.com/company/bytedance,$ 140.0,4/7/2017,2017,Beijing,China,Artificial intelligence
+Kendra Scott,https://www.cbinsights.com/company/kendra-scott,$ 1.0,12/21/2016,2016,Austin,United States,Consumer & retail
+SMS Assist,https://www.cbinsights.com/company/sms-assist,$ 1.0,6/7/2016,2016,Chicago,United States,Internet software & services
+iCarbonX,https://www.cbinsights.com/company/icarbonx,$ 1.0,4/12/2016,2016,Shenzhen,China,Artificial intelligence
+MindMaze,https://www.cbinsights.com/company/mindmaze,$ 1.0,1/28/2016,2016,Lausanne,Switzerland,Health
+OVH,https://www.cbinsights.com/company/ovh-hosting,$ 1.1,8/15/2016,2016,Roubaix,France,Other
+Juanpi,https://www.cbinsights.com/company/juanpicom,$ 1.1,4/14/2016,2016,Wuhan,China,E-commerce & direct-to-consumer
+L&P Cosmetic,https://www.cbinsights.com/company/lp-cosmetic,$ 1.19,1/1/2016,2016,Seoul,South Korea,Consumer & retail
+Yiguo,https://www.cbinsights.com/company/yiguo,$ 1.2,11/9/2016,2016,Shanghai,China,"Supply chain, logistics, & delivery"
+Gett,https://www.cbinsights.com/company/gettaxi,$ 1.5,5/24/2016,2016,London,United Kingdom,Auto & transportation
+Mofang Living,https://www.cbinsights.com/company/mofang-gongyu,$ 1.5,4/13/2016,2016,Shanghai,China,E-commerce & direct-to-consumer
+Promasidor Holdings,https://www.cbinsights.com/company/promasidor-holdings,$ 1.59,11/8/2016,2016,Bryanston,South Africa,Consumer & retail
+HuiMin,https://www.cbinsights.com/company/huimincn,$ 2.0,9/5/2016,2016,Beijing,China,E-commerce & direct-to-consumer
+Meicai,https://www.cbinsights.com/company/meicai,$ 2.8,6/22/2016,2016,Beijing,China,Mobile & telecommunications
+Age of Learning,https://www.cbinsights.com/company/age-of-learning,$ 3.0,5/3/2016,2016,Glendale,United States,Edtech
+Dadi Cinema,https://www.cbinsights.com/company/guangdong-dadi-cinema-construction,$ 3.24,5/11/2016,2016,Shenzhen,China,Other
+UBTECH Robotics,https://www.cbinsights.com/company/ubtech-robotics,$ 4.58,7/25/2016,2016,Shenzhen,China,Hardware
+VIPKid,https://www.cbinsights.com/company/vipkid,$ 4.5,8/4/2016,2016,Beijing,China,Edtech
+Lianjia,https://www.cbinsights.com/company/beijing-homelink-real-estate-brokerage-co,$ 5.77,4/7/2016,2016,Beijing,China,E-commerce & direct-to-consumer
+Chehaoduo,https://www.cbinsights.com/company/guazi,$ 10.0,3/12/2016,2016,Beijing,China,E-commerce & direct-to-consumer
+Global Switch,https://www.cbinsights.com/company/global-switch,$ 11.1,12/22/2016,2016,London,United Kingdom,Hardware
+Xiaohongshu,https://www.cbinsights.com/company/xiaohongshu,$ 20.0,3/31/2016,2016,Shanghai,China,E-commerce & direct-to-consumer
+iTutorGroup,https://www.cbinsights.com/company/tutorgroup,$ 1.0,11/18/2015,2015,Shanghai,China,Edtech
+HuJiang,https://www.cbinsights.com/company/hujiang,$ 1.0,10/29/2015,2015,Shanghai,China,Edtech
+Womai,https://www.cbinsights.com/company/womai,$ 1.0,10/12/2015,2015,Beijing,China,E-commerce & direct-to-consumer
+58 Daojia,https://www.cbinsights.com/company/58-daojia,$ 1.0,10/12/2015,2015,Beijing,China,Internet software & services
+Mia.com,https://www.cbinsights.com/company/miyabaobei,$ 1.0,9/8/2015,2015,Beijing,China,E-commerce & direct-to-consumer
+Vox Media,https://www.cbinsights.com/company/vox-media,$ 1.0,8/12/2015,2015,Washington,United States,Internet software & services
+FXiaoKe,https://www.cbinsights.com/company/facishare,$ 1.0,7/2/2015,2015,Beijing,China,Mobile & telecommunications
+JimuBox,https://www.cbinsights.com/company/jimubox,$ 1.0,4/21/2015,2015,Beijing,China,Fintech
+Lamabang,https://www.cbinsights.com/company/wangzhi-technology-co,$ 1.0,3/6/2015,2015,Shenzhen,China,E-commerce & direct-to-consumer
+BeiBei,https://www.cbinsights.com/company/beibei,$ 1.0,1/22/2015,2015,Hangzhou,China,E-commerce & direct-to-consumer
+Red Ventures,https://www.cbinsights.com/company/red-ventures,$ 1.0,1/7/2015,2015,Fort Mill,United States,Other
+LinkSure Network,https://www.cbinsights.com/company/linksure-network,$ 1.0,1/1/2015,2015,Shanghai,China,Mobile & telecommunications
+Jiuxian,https://www.cbinsights.com/company/jiuxiancom,$ 1.05,7/30/2015,2015,Beijing,China,E-commerce & direct-to-consumer
+AppDirect,https://www.cbinsights.com/company/appdirect,$ 1.1,10/7/2015,2015,San Francisco,United States,E-commerce & direct-to-consumer
+LifeMiles,https://www.cbinsights.com/company/lifemiles,$ 1.15,7/13/2015,2015,Bogota,Colombia,Other
+Flipboard,https://www.cbinsights.com/company/flipboard,$ 1.32,7/22/2015,2015,Palo Alto,United States,Internet software & services
+TuJia,https://www.cbinsights.com/company/tujia,$ 1.5,6/17/2015,2015,Beijing,China,Travel
+Infinidat,https://www.cbinsights.com/company/infinidat,$ 1.6,4/29/2015,2015,Waltham,United States,Hardware
+Zhubajie,https://www.cbinsights.com/company/zhubajie,$ 1.61,6/16/2015,2015,Chongqing,China,Internet software & services
+Apus Group,https://www.cbinsights.com/company/apus-group,$ 1.73,1/16/2015,2015,Beijing,China,Mobile & telecommunications
+ZocDoc,https://www.cbinsights.com/company/zocdoc,$ 1.8,8/20/2015,2015,New York,United States,Health
+BlaBlaCar,https://www.cbinsights.com/company/blablacar,$ 2.0,9/16/2015,2015,Paris,France,Auto & transportation
+Tubatu.com,https://www.cbinsights.com/company/to8to,$ 2.0,3/9/2015,2015,Shenzhen,China,E-commerce & direct-to-consumer
+Uptake,https://www.cbinsights.com/company/uptake-technologies,$ 2.3,10/27/2015,2015,Chicago,United States,Artificial intelligence
+WEMAKEPRICE,https://www.cbinsights.com/company/wemakeprice-inc,$ 2.34,9/9/2015,2015,Seoul,South Korea,E-commerce & direct-to-consumer
+Carbon,https://www.cbinsights.com/company/carbon3d,$ 2.4,8/20/2015,2015,Redwood City,United States,Hardware
+Illumio,https://www.cbinsights.com/company/illumio,$ 2.75,4/14/2015,2015,Sunnyvale,United States,Cybersecurity
+Yixia,https://www.cbinsights.com/company/xuanyixia,$ 3.0,11/24/2015,2015,Beijing,China,Mobile & telecommunications
+Thumbtack,https://www.cbinsights.com/company/thumbtack,$ 3.2,9/29/2015,2015,San Francisco,United States,E-commerce & direct-to-consumer
+Royole Corporation,https://www.cbinsights.com/company/royole-corporation,$ 6.0,8/18/2015,2015,Shenzhen,China,Hardware
+We Doctor,https://www.cbinsights.com/company/guahaohangzhoutechnology-co-ltd,$ 7.0,9/22/2015,2015,Hangzhou,China,Health
+Tanium,https://www.cbinsights.com/company/tanium,$ 9.0,3/31/2015,2015,Kirkland,United States,Cybersecurity
+Gusto,https://www.cbinsights.com/company/zenpayroll,$ 10.0,12/18/2015,2015,San Francisco,United States,Fintech
+DJI Innovations,https://www.cbinsights.com/company/dji,$ 15.0,1/23/2015,2015,Shenzhen,China,Hardware
+InMobi,https://www.cbinsights.com/company/inmobi,$ 1.0,12/2/2014,2014,Bengaluru,India,Mobile & telecommunications
+TechStyle Fashion Group,https://www.cbinsights.com/company/justfab,$ 1.0,8/29/2014,2014,El Segundo,United States,E-commerce & direct-to-consumer
+Snapdeal,https://www.cbinsights.com/company/snapdeal,$ 1.0,5/21/2014,2014,New Delhi,India,E-commerce & direct-to-consumer
+TangoMe,https://www.cbinsights.com/company/tangome,$ 1.1,3/20/2014,2014,Mountain View,United States,Mobile & telecommunications
+Koudai,https://www.cbinsights.com/company/koudai-gouwu,$ 1.4,10/23/2014,2014,Beijing,China,E-commerce & direct-to-consumer
+Magic Leap,https://www.cbinsights.com/company/magic-leap,$ 2.0,10/21/2014,2014,Plantation,United States,Hardware
+Intarcia Therapeutics,https://www.cbinsights.com/company/intarcia-therapeutics,$ 3.8,4/1/2014,2014,Boston,United States,Health
+Yello Mobile,https://www.cbinsights.com/company/yello-mobile,$ 4.0,11/11/2014,2014,Seoul,South Korea,Mobile & telecommunications
+Houzz,https://www.cbinsights.com/company/houzz,$ 4.0,9/30/2014,2014,Palo Alto,United States,E-commerce & direct-to-consumer
+Ola Cabs,https://www.cbinsights.com/company/ani-technologies,$ 7.5,10/27/2014,2014,Bengaluru,India,Auto & transportation
+Instacart,https://www.cbinsights.com/company/instacart,$ 39.0,12/30/2014,2014,San Francisco,United States,"Supply chain, logistics, & delivery"
+Stripe,https://www.cbinsights.com/company/stripe,$ 95.0,1/23/2014,2014,San Francisco,United States,Fintech
+Lookout,https://www.cbinsights.com/company/lookout,$ 1.0,10/10/2013,2013,San Francisco,United States,Cybersecurity
+Mu Sigma,https://www.cbinsights.com/company/mu-sigma,$ 1.5,2/7/2013,2013,Northbrook,United States,Data management & analytics
+Automattic,https://www.cbinsights.com/company/automattic,$ 7.5,5/27/2013,2013,San Francisco,United States,Internet software & services
+Avant,https://www.cbinsights.com/company/avant-credit,$ 2.0,12/17/2012,2012,Chicago,United States,Artificial intelligence
+Trendy Group International,https://www.cbinsights.com/company/trendy-group-international,$ 2.0,2/13/2012,2012,Kowloon,Hong Kong,Consumer & retail
+Fanatics,https://www.cbinsights.com/company/fanatics,$ 27.0,6/6/2012,2012,Jacksonville,United States,E-commerce & direct-to-consumer
+SpaceX,https://www.cbinsights.com/company/space-exploration-technologies,$ 127.0,12/1/2012,2012,Hawthorne,United States,Other
+Vice Media,https://www.cbinsights.com/company/vice-media,$ 5.7,4/2/2011,2011,Brooklyn,United States,Internet software & services
+Klarna,https://www.cbinsights.com/company/klarna,$ 6.7,12/12/2011,2011,Stockholm,Sweden,Fintech
+Veepee,https://www.cbinsights.com/company/vente-privee,$ 1.38,7/2/2007,2007,La Plaine Saint-Denis,France,E-commerce & direct-to-consumer

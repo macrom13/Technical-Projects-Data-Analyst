@@ -1,0 +1,90 @@
+--1
+CREATE TABLE IF NOT EXISTS unicorns (
+	company character varying, 
+	url character varying,
+	last_valuation character varying,
+	date_joined character varying,
+	year_joined numeric,
+	city text,
+	country text,
+	industry character varying
+);
+
+-------------------------------------------
+
+--2 & 3
+
+SELECT * FROM unicorns
+----------------------------
+
+ALTER TABLE unicorns
+ALTER COLUMN date_joined2 
+SET DATA TYPE date 
+USING to_date(date_joined2, 'YYYY-MM-DD');
+---------------------------------------------
+ALTER TABLE unicorns
+ADD COLUMN month text
+
+ALTER TABLE unicorns
+ADD COLUMN day text
+
+UPDATE unicorns
+SET month = SPLIT_PART(date_joined1, '-', 1)
+
+UPDATE unicorns
+SET day = SPLIT_PART(date_joined1, '-', 2) 
+------------------------------------------------
+ALTER TABLE unicorns
+ADD COLUMN date_joined2 VARCHAR 
+
+UPDATE unicorns
+SET date_joined2 = CONCAT(year_joined,'-',month,'-',day)
+------------------------------------------------------
+
+
+--4
+
+ALTER TABLE unicorns
+ADD COLUMN last_valuation_upd TEXT;
+-----------------------------
+
+UPDATE unicorns
+SET last_valuation_upd = SPLIT_PART(last_valuation, ' ', 2)
+--------------------------------
+ALTER TABLE unicorns
+ALTER COLUMN last_valuation_upd
+SET DATA TYPE NUMERIC
+USING last_valuation_upd::numeric
+--------------------------------
+ALTER TABLE unicorns
+DROP COLUMN last_valuation
+----------------------------------------------------------
+
+--5
+
+ALTER TABLE unicorns
+ADD COLUMN rank TEXT;
+---------------------------------
+UPDATE unicorns
+SET rank = 
+CASE 
+	WHEN last_valuation_upd <= 10 THEN 'low'
+	WHEN last_valuation_upd BETWEEN 10 AND 20 THEN 'middle'
+	WHEN last_valuation_upd > 20 THEN 'high'
+	ELSE NULL
+END
+------------------------------------------------------
+
+--6
+
+CREATE TABLE us_unicorns AS
+SELECT * FROM unicorns
+WHERE country = 'United States'
+--------------------------------------------------------
+
+--7
+
+DELETE FROM us_unicorns
+WHERE city IN ('Tokyo','Dublin')
+
+
